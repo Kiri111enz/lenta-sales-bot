@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Утюг REDMOND RI-C268",
+        "sale_percent": 41,
+        "card_price": 2499.0,
+        "regular_price": 4209.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-07-10 02:00:00",
+        "url": "https://lenta.com/product/548172-kitajj-548172/"
+    },
+    {
+        "title": "Стакан GAUSS Lcup, с подсветкой",
+        "sale_percent": 62,
+        "card_price": 199.99,
+        "regular_price": 525.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-03-27 02:00:00",
+        "url": "https://lenta.com/product/stakan-gauss-s-podsvetkojj-lcup-kitajj-597605/"
+    },
+    {
+        "title": "Пылесборник BASE BA4000/5, 5шт",
+        "sale_percent": 31,
+        "card_price": 289.0,
+        "regular_price": 420.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-06-30 02:00:00",
+        "url": "https://lenta.com/product/pylesbornik-base-ba40005-germaniya-272347/"
+    },
+    {
+        "title": "Пылесборник BASE BA2000/5, 5шт",
+        "sale_percent": 25,
+        "card_price": 299.0,
+        "regular_price": 398.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-06-16 02:00:00",
+        "url": "https://lenta.com/product/pylesbornik-base-ba20005-germaniya-272339/"
+    },
+    {
+        "title": "Пылесборник BASE BA4089/5, 5шт",
+        "sale_percent": 29,
+        "card_price": 299.0,
+        "regular_price": 420.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-06-16 02:00:00",
+        "url": "https://lenta.com/product/pylesbornik-base-ba40895-germaniya-272349/"
+    },
+    {
+        "title": "Сушилка д/обуви ТИМСОН 2426",
+        "sale_percent": 28,
+        "card_price": 369.0,
+        "regular_price": 514.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/sushilka-dlya-obuvi-timson-2426-rossiya-334352/"
+    },
+    {
+        "title": "Увлажнитель воздуха HOMECLUB TST-DDS04",
+        "sale_percent": 41,
+        "card_price": 499.0,
+        "regular_price": 841.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/uvlazhnitel-vozduha-homeclub-tst-dds04-kitajj-579868/"
+    },
+    {
+        "title": "Сушилка для обуви ТИМСОН 2416 противогрибковая",
+        "sale_percent": 24,
+        "card_price": 799.0,
+        "regular_price": 1051.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/sushilka-dlya-obuvi-timson-protivogribkovaya-rossiya-058204/"
+    },
+    {
+        "title": "Утюг 365 ДНЕЙ WSD-108",
+        "sale_percent": 24,
+        "card_price": 799.0,
+        "regular_price": 1051.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/utyug-365-dnejj-wsd108-kitajj-541326/"
+    },
+    {
+        "title": "Дезинфектор TIMBERK T-DES12",
+        "sale_percent": 72,
+        "card_price": 899.0,
+        "regular_price": 3156.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-03-27 02:00:00",
+        "url": "https://lenta.com/product/579581-kitajj-579581/"
+    },
+    {
+        "title": "Отпариватель ручной MARTA MT-1175",
+        "sale_percent": 37,
+        "card_price": 999.0,
+        "regular_price": 1577.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/otparivatel-marta-ruchnojj-mt1175-kitajj-551387/"
+    },
+    {
+        "title": "Сушилка д/одежды HOMECLUB KW-GYQ01A",
+        "sale_percent": 37,
+        "card_price": 999.0,
+        "regular_price": 1577.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-03-27 02:00:00",
+        "url": "https://lenta.com/product/sushilka-dodezhdy-homeclub-kwgyq01a-kitajj-536803/"
+    },
+    {
+        "title": "Утюг REDMOND RI-C292",
+        "sale_percent": 53,
+        "card_price": 1499.0,
+        "regular_price": 3156.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/572546-kitajj-572546/"
+    },
+    {
+        "title": "Пылесос портативный циклонный HOMECLUB JL-S1005",
+        "sale_percent": 28,
+        "card_price": 1899.0,
+        "regular_price": 2630.59,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2023-07-28 02:00:00",
+        "url": "https://lenta.com/product/pylesos-homeclub-jls1005-portativnyjj-ciklonnogo-tipa-kitajj-357299/"
+    },
+    {
+        "title": "Пылесос STARWIND SCB1020/1022, 1400Вт",
+        "sale_percent": 53,
+        "card_price": 1999.0,
+        "regular_price": 4209.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-03-27 02:00:00",
+        "url": "https://lenta.com/product/prochie-tovary-rossiya2-629664/"
+    },
+    {
+        "title": "Утюг REDMOND RI-C278",
+        "sale_percent": 30,
+        "card_price": 2199.0,
+        "regular_price": 3147.39,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2023-07-10 02:00:00",
+        "url": "https://lenta.com/product/516076-kitajj-516076/"
+    },
+    {
+        "title": "Утюг SCARLETT SC-SI30K06",
+        "sale_percent": 8,
+        "card_price": 2489.0,
+        "regular_price": 2693.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/utyug-prochie-tovary-sc-vc80h01-kitajj-629707/"
+    },
+    {
+        "title": "Утюг POLARIS PIR 2480AK с отпаривателем",
+        "sale_percent": 38,
+        "card_price": 2499.0,
+        "regular_price": 3998.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-07-14 02:00:00",
+        "url": "https://lenta.com/product/utyug-polaris-pir-2480ak-kitajj-545892/"
+    },
+    {
+        "title": "Пылесос вертикальный VITEK Harmony VT-1831",
+        "sale_percent": 57,
+        "card_price": 2599.0,
+        "regular_price": 5998.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-06-30 02:00:00",
+        "url": "https://lenta.com/product/pylesos-vitek-harmony-vertikalnyjj-vt-1831-kitajj-597139/"
+    },
+    {
+        "title": "Увлажнитель воздуха REDMOND RHF-3323",
+        "sale_percent": 49,
+        "card_price": 2699.0,
+        "regular_price": 5262.19,
+        "sale_start": "2022-07-25 02:00:00",
+        "sale_end": "2022-09-07 02:00:00",
+        "url": "https://lenta.com/product/572547-kitajj-572547/"
+    },
+    {
+        "title": "Утюг REDMOND RI-C280",
+        "sale_percent": 23,
+        "card_price": 2699.0,
+        "regular_price": 3490.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-07-10 02:00:00",
+        "url": "https://lenta.com/product/548173-kitajj-548173/"
+    },
+    {
+        "title": "Утюг POLARIS PIR 2483K",
+        "sale_percent": 29,
+        "card_price": 2999.0,
+        "regular_price": 4209.49,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2023-06-05 02:00:00",
+        "url": "https://lenta.com/product/567211-kitajj-567211/"
+    },
+    {
+        "title": "Отпариватель HOMECLUB KG3203",
+        "sale_percent": 25,
+        "card_price": 2999.0,
+        "regular_price": 3998.95,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/otparivatel-homeclub-kg3203-kitajj-438393/"
+    },
+    {
+        "title": "Утюг REDMOND SkyIron RI-C255S",
+        "sale_percent": 26,
+        "card_price": 3490.0,
+        "regular_price": 4735.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-07-10 02:00:00",
+        "url": "https://lenta.com/product/utyug-redmond-skyiron-ric255s-kitajj-450715/"
+    }
+]

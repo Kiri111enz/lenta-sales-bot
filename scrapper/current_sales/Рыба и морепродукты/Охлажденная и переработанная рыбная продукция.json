@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Лосось Атлантический, стейк (из замороженного сырья), весовой",
+        "sale_percent": 27,
+        "card_price": 1299.99,
+        "regular_price": 1789.49,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 00:00:00",
+        "url": "https://lenta.com/product/pf-stejjk-iz-lososya-atl-iz-zamsyrya-rossiya-1kg-299997/"
+    },
+    {
+        "title": "Лосось Атлантический, кусок (из замороженного сырья), весовой",
+        "sale_percent": 21,
+        "card_price": 1499.99,
+        "regular_price": 1894.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pf-losos-kusok-iz-zam-syrya-rossiya-1kg-444550/"
+    },
+    {
+        "title": "Лосось Атлантический, тушка (из замороженного сырья), весовой",
+        "sale_percent": 15,
+        "card_price": 1431.59,
+        "regular_price": 1684.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pf-losos-atlantichesk-tushka-iz-zamsyrya-rossiya-1kg-299994/"
+    },
+    {
+        "title": "Лосось Атлантический, филе (из замороженного сырья) Премиум, весовой",
+        "sale_percent": 15,
+        "card_price": 1789.39,
+        "regular_price": 2105.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pf-losos-atlantich-file-premium-iz-zam-syrya-rossiya-1kg-299996/"
+    },
+    {
+        "title": "Тилапия, филе (из замороженного сырья) Премиум, весовая",
+        "sale_percent": 21,
+        "card_price": 499.99,
+        "regular_price": 631.59,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pf-tilapiya-file-premium-iz-zamsyrya-rossiya-474037/"
+    },
+    {
+        "title": "Пангасиус, филе (из замороженного сырья), весовой",
+        "sale_percent": 26,
+        "card_price": 349.99,
+        "regular_price": 473.69,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pf-pangasius-file-iz-zamsyrya-rossiya-252357/"
+    },
+    {
+        "title": "Дорадо непотрошеная с головой (из замороженного сырья) 300–400г, весовая",
+        "sale_percent": 19,
+        "card_price": 599.99,
+        "regular_price": 736.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pf-dorado-nepotr-sg-300400-iz-zamsyrya-rossiya-1kg-341148/"
+    },
+    {
+        "title": "Окунь морской потрошеный без головы (из замороженного сырья), весовой",
+        "sale_percent": 15,
+        "card_price": 474.19,
+        "regular_price": 557.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pf-okun-morskojj-potr-bg--iz-zam-syrya-rossiya-294302/"
+    },
+    {
+        "title": "Минтай, филе (из замороженного сырья), весовой",
+        "sale_percent": 22,
+        "card_price": 369.99,
+        "regular_price": 473.69,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pf-mintajj-file-iz-zamsyrya-rossiya-253366/"
+    },
+    {
+        "title": "Судак, весовой",
+        "sale_percent": 15,
+        "card_price": 295.19,
+        "regular_price": 347.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/sudak-ohl-ves-rossiya-1kg-104693/"
+    },
+    {
+        "title": "Сазан средний неразделанный, весовой",
+        "sale_percent": 15,
+        "card_price": 139.59,
+        "regular_price": 164.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/sazan-srednijj-nr-ohl-ves-rossiya-1kg-444724/"
+    },
+    {
+        "title": "Горбуша потрошеная без головы (из замороженного сырья), весовая",
+        "sale_percent": 15,
+        "card_price": 268.39,
+        "regular_price": 315.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pf-gorbusha-potr-bg--iz-zam-syrya-rossiya-387003/"
+    },
+    {
+        "title": "Скумбрия непотрошеная с головой (из замороженного сырья), весовая",
+        "sale_percent": 23,
+        "card_price": 299.99,
+        "regular_price": 389.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pf-skumbriya--iz-zam-syrya-rossiya-266843/"
+    },
+    {
+        "title": "Кета потрошеная без головы (из замороженного сырья), весовая",
+        "sale_percent": 15,
+        "card_price": 626.29,
+        "regular_price": 736.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pf-keta-potr-bg-iz-zamsyrya-rossiya-300818/"
+    },
+    {
+        "title": "Кижуч потрошеный без головы (из замороженного сырья) Премиум, весовой",
+        "sale_percent": 15,
+        "card_price": 939.39,
+        "regular_price": 1105.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pf-kizhuch-potr-bg-premium-iz-zam-syrya-chili-ves-rossiya-538497/"
+    },
+    {
+        "title": "Лосось Атлантический потрошеный с головой (из замороженного сырья) 1–4кг, весовой",
+        "sale_percent": 20,
+        "card_price": 1299.99,
+        "regular_price": 1631.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pf-losos-atlanticheskijj-potr-sg-iz-zamsyrya-ves-14-rossiya-1kg-065993/"
+    },
+    {
+        "title": "Лосось Атлантический, филе (из замороженного сырья), весовой",
+        "sale_percent": 26,
+        "card_price": 1399.99,
+        "regular_price": 1894.79,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-09 00:00:00",
+        "url": "https://lenta.com/product/pf-losos-atlanticheskijj-file-iz-zamsyrya-rossiya-1kg-299993/"
+    },
+    {
+        "title": "Лосось Атлантический потрошеный с головой (из замороженного сырья) 4–8кг, весовой",
+        "sale_percent": 15,
+        "card_price": 1520.99,
+        "regular_price": 1789.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pf-losos-atlanticheskijj-potr-sg-iz-zamsyrya-ves-48-rossiya-1kg-014224/"
+    },
+    {
+        "title": "Лосось Атлантический, тушка, весовой",
+        "sale_percent": 15,
+        "card_price": 2505.19,
+        "regular_price": 2947.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pf-losos-atlantichesk-tushka-ohl-ves-rossiya-1kg-024632/"
+    },
+    {
+        "title": "Лосось Атлантический, кусок, весовой",
+        "sale_percent": 15,
+        "card_price": 2505.19,
+        "regular_price": 2947.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pf-losos-atlanticheskijj-kusok-ohl-ves-rossiya-1kg-344469/"
+    },
+    {
+        "title": "Лосось Атлантический, стейк, весовой",
+        "sale_percent": 15,
+        "card_price": 2684.19,
+        "regular_price": 3157.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pf-stejjk-iz-lososya-atlohl-ves-rossiya-1kg-014228/"
+    },
+    {
+        "title": "Лосось Атлантический, филе Премиум, весовой",
+        "sale_percent": 15,
+        "card_price": 2952.59,
+        "regular_price": 3473.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pf-losos-atlantich-file-premium-ohl-ves-rossiya-1kg-014226/"
+    },
+    {
+        "title": "Лосось Атлантический, филе, весовой",
+        "sale_percent": 15,
+        "card_price": 2952.59,
+        "regular_price": 3473.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pf-losos-atlanticheskijj-file-ohl-ves-rossiya-1kg-101611/"
+    },
+    {
+        "title": "Судак, филе (из замороженного сырья), весовой",
+        "sale_percent": 15,
+        "card_price": 492.09,
+        "regular_price": 578.99,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-05 00:00:00",
+        "url": "https://lenta.com/product/pf-sudak-file-iz-zamsyrya-rossiya-1kg-302073/"
+    }
+]

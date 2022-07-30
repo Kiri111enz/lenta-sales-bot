@@ -1,0 +1,119 @@
+[
+    {
+        "title": "Торт Шоколадно-вишневый, весовой",
+        "sale_percent": 15,
+        "card_price": 474.19,
+        "regular_price": 557.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/tort-shokoladnovishnevyjj-ves-rossiya-529260/"
+    },
+    {
+        "title": "Язычки слоеные, весовые",
+        "sale_percent": 15,
+        "card_price": 366.79,
+        "regular_price": 431.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/yazychki-sloenye-ves-rossiya-150007/"
+    },
+    {
+        "title": "Торт Медовик, весовой",
+        "sale_percent": 43,
+        "card_price": 197.99,
+        "regular_price": 347.39,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-09-01 02:00:00",
+        "url": "https://lenta.com/product/tort-medovik--ves-rossiya-185068/"
+    },
+    {
+        "title": "Торт Захер, весовой",
+        "sale_percent": 15,
+        "card_price": 420.49,
+        "regular_price": 494.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/tort-zaher-ves-rossiya-091254/"
+    },
+    {
+        "title": "Торт Крем-брюле, весовой",
+        "sale_percent": 15,
+        "card_price": 438.39,
+        "regular_price": 515.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/tort-krembryule-ves-rossiya-529259/"
+    },
+    {
+        "title": "Пирог Чизкейк Персик, весовой",
+        "sale_percent": 15,
+        "card_price": 484.99,
+        "regular_price": 568.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/tort-chizkejjk--persik-ves-rossiya-063119/"
+    },
+    {
+        "title": "Печенье Курабье, весовое",
+        "sale_percent": 43,
+        "card_price": 221.99,
+        "regular_price": 389.49,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-09-01 02:00:00",
+        "url": "https://lenta.com/product/pechene-kurabe-ves-rossiya-452904/"
+    },
+    {
+        "title": "Печенье с маком, весовое",
+        "sale_percent": 15,
+        "card_price": 393.69,
+        "regular_price": 463.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/pechene-s-makom-ves-rossiya-513462/"
+    },
+    {
+        "title": "Печенье Венское, весовое",
+        "sale_percent": 15,
+        "card_price": 313.19,
+        "regular_price": 368.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/pechene-venskoe-ves-rossiya-497651/"
+    },
+    {
+        "title": "Печенье Валенсия",
+        "sale_percent": 15,
+        "card_price": 380.19,
+        "regular_price": 447.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/pechene-valensiya-ves-rossiya-587252/"
+    },
+    {
+        "title": "Печенье Кокосовое, весовое",
+        "sale_percent": 43,
+        "card_price": 317.99,
+        "regular_price": 557.89,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-09-01 02:00:00",
+        "url": "https://lenta.com/product/pechene-kokosovoe-ves-rossiya-452903/"
+    },
+    {
+        "title": "Печенье Кунжутное, весовое",
+        "sale_percent": 15,
+        "card_price": 375.79,
+        "regular_price": 442.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/pechene-kunzhutnoe-ves-rossiya-547513/"
+    },
+    {
+        "title": "Печенье с сыром, весовое",
+        "sale_percent": 15,
+        "card_price": 500.99,
+        "regular_price": 589.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/pechene-s-syrom-ves-rossiya-452906/"
+    }
+]

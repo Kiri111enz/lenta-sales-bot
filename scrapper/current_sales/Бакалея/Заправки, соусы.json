@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Кетчуп HEINZ Томатный, 320г",
+        "sale_percent": 34,
+        "card_price": 79.99,
+        "regular_price": 121.09,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/ketchup-heinz-tomatnyjj-dojj-pak-rossiya-320g-585744/"
+    },
+    {
+        "title": "Масло оливковое FILIPPO BERIO Extra Virgin нерафинированное, 1л",
+        "sale_percent": 51,
+        "card_price": 698.99,
+        "regular_price": 1421.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/maslo-olivkovoe-filippo-berio-extra-virgin-stb-italiya-1l-508320/"
+    },
+    {
+        "title": "Майонез СЛОБОДА Семейный Провансаль 50,5%, 800мл",
+        "sale_percent": 25,
+        "card_price": 149.99,
+        "regular_price": 199.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/majjonez-sloboda-provansal-semejjnyjj-505-dp-rossiya-800ml-297461/"
+    },
+    {
+        "title": "Масло оливковое FILIPPO BERIO Extra Virgin, 500мл",
+        "sale_percent": 23,
+        "card_price": 469.99,
+        "regular_price": 610.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-12 02:00:00",
+        "url": "https://lenta.com/product/maslo-olivkovoe-filippo-berio-extra-virgin-sb-italiya-500ml-289098/"
+    },
+    {
+        "title": "Соус BARILLA Наполетана томатный с овощами, 400г",
+        "sale_percent": 25,
+        "card_price": 229.99,
+        "regular_price": 305.19,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/sous-barilla-napoletana-tomatnyjj-s-ovoshchami-italiya-400g-427749/"
+    },
+    {
+        "title": "Кетчуп HEINZ Итальянский, 320г",
+        "sale_percent": 45,
+        "card_price": 69.89,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/ketchup-heinz-italyanskijj-dojj-pak-rossiya-320g-585745/"
+    },
+    {
+        "title": "Масло оливковое FILIPPO BERIO Extra virgin нерафинированное, 250мл",
+        "sale_percent": 52,
+        "card_price": 239.89,
+        "regular_price": 494.69,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/maslo-olivkovoe-filippo-berio-nraf-italiya-250ml-364745/"
+    },
+    {
+        "title": "Майонез ЛУ-КА 60%, ведро, 450мл",
+        "sale_percent": 27,
+        "card_price": 83.59,
+        "regular_price": 114.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/majjonez-lu-ka-60-vedro-rossiya-450ml-503787/"
+    },
+    {
+        "title": "Соус BARILLA Базилико томатный с базиликом, 400г",
+        "sale_percent": 22,
+        "card_price": 229.99,
+        "regular_price": 294.79,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/sous-barilla-baziliko-italiya-400g-178183/"
+    },
+    {
+        "title": "Соус BARILLA Болоньезе томатный с говядиной и свининой, 400г",
+        "sale_percent": 22,
+        "card_price": 329.99,
+        "regular_price": 421.09,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/sous-barilla-boloneze-c-govyadinojj-i-svininojj-italiya-400g-178184/"
+    },
+    {
+        "title": "Масло оливковое FILIPPO BERIO рафинированное с добавлением нерафинированного, 500мл",
+        "sale_percent": 28,
+        "card_price": 469.99,
+        "regular_price": 652.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-12 02:00:00",
+        "url": "https://lenta.com/product/maslo-olivkovoe-filippo-berio-raf-s-dobavleniem-nraf-italiya-500ml-364686/"
+    },
+    {
+        "title": "Соус HEINZ Сырный, 230г",
+        "sale_percent": 41,
+        "card_price": 74.89,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/sous-heinz-syrnyjj-na-osnove-rastitelnyh-masel-dp-59-rossiya-230g-222616/"
+    },
+    {
+        "title": "Масло оливковое MAESTRO DE OLIVA Extra Virgin, 500мл",
+        "sale_percent": 43,
+        "card_price": 499.99,
+        "regular_price": 884.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-10 02:00:00",
+        "url": "https://lenta.com/product/maslo-olivkovoe-maestro-de-oliva-exstra-virgen-ispaniya-05l-128613/"
+    },
+    {
+        "title": "Кетчуп HEINZ Для гриля и шашлыка, 320г",
+        "sale_percent": 45,
+        "card_price": 69.89,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/ketchup-heinz-dgrilya-i-shashlyka-dojj-pak-rossiya-320g-585752/"
+    },
+    {
+        "title": "Соус BARILLA Песто с базиликом и руколой, 190г",
+        "sale_percent": 21,
+        "card_price": 299.99,
+        "regular_price": 378.89,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/sous-barilla-pesto-bazilik-i-rukkola-italiya-190g-392178/"
+    },
+    {
+        "title": "Кетчуп HEINZ Острый, 320г",
+        "sale_percent": 37,
+        "card_price": 79.99,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/ketchup-heinz-ostryjj-dojj-pak-rossiya-320g-585751/"
+    },
+    {
+        "title": "Кетчуп HEINZ Супер острый, 320г",
+        "sale_percent": 45,
+        "card_price": 69.89,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/ketchup-heinz-super-ostryjj-dojj-pak-rossiya-320g-585746/"
+    },
+    {
+        "title": "Кетчуп МАХЕЕВЪ Томатный, 500г",
+        "sale_percent": 28,
+        "card_price": 94.89,
+        "regular_price": 131.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/ketchup-maheev-tomatnyjj-rossiya-500g-309931/"
+    },
+    {
+        "title": "Масло оливковое FILIPPO BERIO Pure рафинированное, 1л",
+        "sale_percent": 45,
+        "card_price": 698.99,
+        "regular_price": 1263.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/maslo-olivkovoe-filippo-berio-pure-rafin-stb-italiya-1l-508321/"
+    },
+    {
+        "title": "Соус HEINZ Цезарь, 230г",
+        "sale_percent": 37,
+        "card_price": 79.99,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/sous-heinz-na-osnove-rastitelnyh-masel-cezar-dojjpak-59-rossiya-230g-253956/"
+    },
+    {
+        "title": "Соус HEINZ Чесночный, 230г",
+        "sale_percent": 45,
+        "card_price": 74.89,
+        "regular_price": 136.89,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/sous-heinz-na-osnove-rastitelnyh-masel-chesnochnyjj-dojjpak-58-rossiya-230g-254059/"
+    },
+    {
+        "title": "Горчица МАХЕЕВЪ Русская, 140г",
+        "sale_percent": 47,
+        "card_price": 24.89,
+        "regular_price": 47.39,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/gorchica-maheev-russkaya-rossiya-140g-309783/"
+    },
+    {
+        "title": "Масло кунжутное ЕЛЕЯ нерафинированное, 500мл",
+        "sale_percent": 19,
+        "card_price": 279.99,
+        "regular_price": 346.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/maslo-kunzhutnoe-eleya-neraf-stb-rossiya-05l-500101/"
+    },
+    {
+        "title": "Майонез Я ЛЮБЛЮ ГОТОВИТЬ Провансаль классический 67%, 390мл",
+        "sale_percent": 18,
+        "card_price": 99.99,
+        "regular_price": 122.59,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/majjonez-prochie-tovary-provansal-klassicheskijj-67-dp-rossiya-390ml-612168/"
+    }
+]

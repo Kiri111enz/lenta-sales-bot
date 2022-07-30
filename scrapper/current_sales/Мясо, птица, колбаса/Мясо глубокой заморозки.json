@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Печень говяжья замороженная СОЛВЕКС ПЛЮС Домашняя фасованная, весовая",
+        "sale_percent": 15,
+        "card_price": 328.39,
+        "regular_price": 386.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/pechen-solveks-plyus-govyazhya-domashnyaya-zam-fas-rossiya-1kg-174411/"
+    },
+    {
+        "title": "Печень говяжья замороженная ЛЕНТА, весовая",
+        "sale_percent": 15,
+        "card_price": 295.19,
+        "regular_price": 347.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/pechen-govyazhya-lenta-zam-ves-rossiya-588081/"
+    },
+    {
+        "title": "Сердце говяжье замороженное, весовое",
+        "sale_percent": 15,
+        "card_price": 384.69,
+        "regular_price": 452.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/serdce-govyazhe-zam-up-ves-rossiya-1kg-274012/"
+    },
+    {
+        "title": "Тушка кролика замороженная, весовая",
+        "sale_percent": 15,
+        "card_price": 518.99,
+        "regular_price": 610.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/tushka-krolika-sm-ves-rossiya-527929/"
+    },
+    {
+        "title": "Фарш замороженный МИРАТОРГ Традиционный, 500г",
+        "sale_percent": 15,
+        "card_price": 137.79,
+        "regular_price": 162.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/farsh-miratorg-tradicionnyjj-zam-rossiya-500g-374050/"
+    },
+    {
+        "title": "Сердце свиное замороженное, весовое",
+        "sale_percent": 15,
+        "card_price": 329.09,
+        "regular_price": 387.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/serdce-svinoe-zam-up-ves-rossiya-1kg-274014/"
+    },
+    {
+        "title": "Ножки свиные замороженные, весовые",
+        "sale_percent": 15,
+        "card_price": 107.39,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/svinina-nozhki-zam-up-ves-rossiya-1kg-274017/"
+    },
+    {
+        "title": "Кролик тушка замороженный ЗЕЛЕНАЯ ДОЛИНА, весовой",
+        "sale_percent": 15,
+        "card_price": 617.39,
+        "regular_price": 726.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/krolik-zelenaya-dolina-tushka-vu-zam-ves-rossiya-1kg-485606/"
+    },
+    {
+        "title": "Язык говяжий замороженный, весовой",
+        "sale_percent": 15,
+        "card_price": 876.79,
+        "regular_price": 1031.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/yazyk-govyazhijj-zam-up-ves-rossiya-1kg-076160/"
+    },
+    {
+        "title": "Ноги говяжьи замороженные, весовые",
+        "sale_percent": 15,
+        "card_price": 125.19,
+        "regular_price": 147.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/pf-stejjk-iz-foreli-ohl-ves-rossiya-544d0b2b-494295/"
+    },
+    {
+        "title": "Хвосты говяжьи замороженные, весовые",
+        "sale_percent": 15,
+        "card_price": 223.69,
+        "regular_price": 263.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/pf-govyazhi-hvosty-zam-ves-rossiya-462805/"
+    }
+]

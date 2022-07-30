@@ -1,0 +1,137 @@
+[
+    {
+        "title": "Тесто дрожжевое ЛЕНТА слоеное, 500г",
+        "sale_percent": 24,
+        "card_price": 78.99,
+        "regular_price": 104.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/testo-lenta-sloenoe-drozhzhevoe-500g-rossiya-506556/"
+    },
+    {
+        "title": "Тесто бездрожжевое ЛЕНТА слоеное, 500г",
+        "sale_percent": 24,
+        "card_price": 78.99,
+        "regular_price": 104.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/testo-lenta-sloenoe-bezdrozhzhevoe-500g-rossiya-506554/"
+    },
+    {
+        "title": "Тесто бездрожжевое ЦЕЗАРЬ слоеное со сливочным маслом, 400г",
+        "sale_percent": 15,
+        "card_price": 192.19,
+        "regular_price": 226.19,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/testo-cezar-sloen-bdrozh-so-slmasl400g-rossiya-522560/"
+    },
+    {
+        "title": "Тесто дрожжевое ЦЕЗАРЬ слоеное со сливочным маслом, 400г",
+        "sale_percent": 15,
+        "card_price": 192.19,
+        "regular_price": 226.19,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/testo-cezar-sloen-drozhzh-so-slmasl400g-rossiya-522563/"
+    },
+    {
+        "title": "Тесто дрожжевое BONVIDA слоеное, 1500г",
+        "sale_percent": 15,
+        "card_price": 214.69,
+        "regular_price": 252.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/testo-bonvida-sloenoe-drozhzhevoe-1500g-rossiya-1500g-501662/"
+    },
+    {
+        "title": "Тесто дрожжевое РОДНОЙ ДОМ слоеное, 900г",
+        "sale_percent": 15,
+        "card_price": 201.29,
+        "regular_price": 236.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/testo-rodnojj-dom-sloenoe-drozhzhevoe-rossiya-900g-468368/"
+    },
+    {
+        "title": "Тесто дрожжевое СИБИРСКИЙ ГУРМАН слоеное, 500г",
+        "sale_percent": 15,
+        "card_price": 97.49,
+        "regular_price": 114.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/testo-sibirskijj-gurman-sloenoe-drozhzhevoe-rulon-zam-rossiya-500g-549064/"
+    },
+    {
+        "title": "Тесто дрожжевое МОРОЗКО слоеное, 400г",
+        "sale_percent": 15,
+        "card_price": 110.79,
+        "regular_price": 130.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/testo-morozko-sloenoe-drozhzhevoe-rossiya-400g-045089/"
+    },
+    {
+        "title": "Тесто бездрожжевое МОРОЗКО слоеное, 400г",
+        "sale_percent": 15,
+        "card_price": 110.79,
+        "regular_price": 130.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/testo-morozko-sloenoe-bezdrozhzhevoe-rossiya-400g-061099/"
+    },
+    {
+        "title": "Тесто бездрожжевое ТАЛОСТО Без хлопот слоеное, 900г",
+        "sale_percent": 15,
+        "card_price": 193.19,
+        "regular_price": 227.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/testo-talosto-bez-hlopot-sloenoe-rossiya-900g-290586/"
+    },
+    {
+        "title": "Булочки EESTI PAGAR с начинкой из какао и фундука, на сливочном масле, 240г",
+        "sale_percent": 17,
+        "card_price": 199.99,
+        "regular_price": 242.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/bulochki-eesti-pagar-s-nachinkojj-iz-kakao-i-funduka-na-slivochnom-masle-estoniya-240g-608327/"
+    },
+    {
+        "title": "Круассаны LA REINE с абрикосом, 420г",
+        "sale_percent": 15,
+        "card_price": 201.29,
+        "regular_price": 236.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/kruassany-la-reine-s-abrikosom-rossiya-420g-471657/"
+    },
+    {
+        "title": "Улитки EESTI PAGAR с начинкой из мака и марципана, 320г",
+        "sale_percent": 15,
+        "card_price": 205.79,
+        "regular_price": 242.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/ulitki-eesti-pagar-s-nachinkojj-iz-maka-i-marcipana-estoniya-320g-608498/"
+    },
+    {
+        "title": "Тесто бездрожжевое BONVIDA слоеное, 1500г",
+        "sale_percent": 15,
+        "card_price": 214.69,
+        "regular_price": 252.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/testo-bonvida-sloenoe-bezdrozhzhevoe-1500g-rossiya-1500g-501663/"
+    },
+    {
+        "title": "Круассаны EESTI PAGAR на сливочном масле, 360г",
+        "sale_percent": 15,
+        "card_price": 232.59,
+        "regular_price": 273.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/kruassany-eesti-pagar-na-slivochnom-masle-estoniya-360g-608499/"
+    }
+]

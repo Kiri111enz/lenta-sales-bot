@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Батончик протеиновый CHIKALAB с начинкой арахис, 60г",
+        "sale_percent": 24,
+        "card_price": 119.99,
+        "regular_price": 157.89,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/ref-proteinovye-batonchiki-rossiya3-572882/"
+    },
+    {
+        "title": "Батончик протеиновый CHIKALAB с кокосовой начинкой, 60г",
+        "sale_percent": 24,
+        "card_price": 119.99,
+        "regular_price": 157.89,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/ref-proteinovye-batonchiki-rossiya-572878/"
+    },
+    {
+        "title": "Батончик протеиновый FITNESSHOCK Шоколад-фундук с карамелью, глазированный, без сахара, 50г",
+        "sale_percent": 35,
+        "card_price": 74.99,
+        "regular_price": 115.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/ref-dieticheskie-batonchiki-prochie-tovary-rossiya28-629075/"
+    },
+    {
+        "title": "Батончик протеиновый FITNESSHOCK Арахис-карамель, глазированный, без сахара, 50г",
+        "sale_percent": 35,
+        "card_price": 74.99,
+        "regular_price": 115.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/ref-dieticheskie-batonchiki-prochie-tovary-rossiya27-629074/"
+    },
+    {
+        "title": "Батончик протеиновый CHIKALAB с начинкой тирамису, 60г",
+        "sale_percent": 24,
+        "card_price": 119.99,
+        "regular_price": 157.89,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/ref-proteinovye-batonchiki-rossiya2-572879/"
+    },
+    {
+        "title": "Чипсы овощные ЛЕНТА ЕСО Хрустящие, из свеклы, 25г",
+        "sale_percent": 21,
+        "card_price": 49.99,
+        "regular_price": 63.19,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/chipsy-ovoshchnye-lenta-eso-hrustyashchie-iz-svekly-rossiya-25g-583152/"
+    },
+    {
+        "title": "Батончик фруктовый TAKE A SLIM BITE Двойной шоколад, 30г",
+        "sale_percent": 61,
+        "card_price": 24.99,
+        "regular_price": 64.29,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-10 02:00:00",
+        "url": "https://lenta.com/product/batonchik-take-a-slim-bite-fruktovo-yagodnyjj-dvojjnojj-shokolad-rossiya-30g-553085/"
+    },
+    {
+        "title": "Батончик протеиновый FITNESSHOCK Shocker Арахис-шоколад, глазированный, 35г",
+        "sale_percent": 40,
+        "card_price": 34.99,
+        "regular_price": 57.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/batonchik-prochie-tovary-glazirovannyjj-arahis-shokolad-rossiya-40g-636076/"
+    },
+    {
+        "title": "Батончик протеиновый CORNY Protein Ваниль, со злаками и магнием, Арт. 41419, 35г",
+        "sale_percent": 62,
+        "card_price": 47.99,
+        "regular_price": 125.29,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-10 00:00:00",
+        "url": "https://lenta.com/product/batonchik-proteinovyjj-corny-so-zlakami-vanil-41419-germaniya-35g-588295/"
+    },
+    {
+        "title": "Батончик протеиновый FITNESSHOCK Double bar Фисташка-ваниль, неглазированный, 40г",
+        "sale_percent": 35,
+        "card_price": 67.99,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/batonchik-prochie-tovary-neglazirovannyjj-fistashka-vanil-rossiya-40g-636074/"
+    },
+    {
+        "title": "Снеки овощные ЗЕЛЕНИКА Здоровый перекус, Свекла, 50г",
+        "sale_percent": 62,
+        "card_price": 71.99,
+        "regular_price": 189.49,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-10 02:00:00",
+        "url": "https://lenta.com/product/perekus-zelenika-iz-svekly-kitajj-50g-539583/"
+    },
+    {
+        "title": "Снеки ягодные ЗЕЛЕНИКА Здоровый перекус, Виноград зеленый и черный, 20г",
+        "sale_percent": 50,
+        "card_price": 98.99,
+        "regular_price": 197.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-02-01 02:00:00",
+        "url": "https://lenta.com/product/sneki-zelenika-yagodnye-vinograd-rossiya-20g-550618/"
+    }
+]

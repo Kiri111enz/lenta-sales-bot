@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Крем для обуви ЛЕНТА с аппликатором черный, 75мл",
+        "sale_percent": 23,
+        "card_price": 99.99,
+        "regular_price": 130.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/krem-dobuvi-lenta-s-applikatorom-chernyjj-turciya-75ml-526124/"
+    },
+    {
+        "title": "Воск для обуви SALTON с норковым маслом, черный, 75мл",
+        "sale_percent": 50,
+        "card_price": 63.19,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-06-07 02:00:00",
+        "url": "https://lenta.com/product/vosk-dlya-obuvi-salton-s-norkovym-maslom-v-banke-chernyjj-477518-kitajj-136703/"
+    },
+    {
+        "title": "Стельки зимние для обуви SILVER с алюминиевой фольгой, размер 35–45",
+        "sale_percent": 50,
+        "card_price": 71.09,
+        "regular_price": 142.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-06-07 02:00:00",
+        "url": "https://lenta.com/product/stelki-silver-zimnie-alyumfolgasherst-turciya-402090/"
+    },
+    {
+        "title": "Запяточники гелевые DAMAVIK размер S/M",
+        "sale_percent": 24,
+        "card_price": 79.99,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/zapyatochniki-prochie-tovary-gelevye-razmer-sm-kitajj-638614/"
+    },
+    {
+        "title": "Стельки DAMAVIK Шерсть Plus трехслойные с фольгой",
+        "sale_percent": 50,
+        "card_price": 84.29,
+        "regular_price": 168.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-06-07 02:00:00",
+        "url": "https://lenta.com/product/stelki-dlya-obuvi-damavk-sherst-plus-trehslojjnye-s-folgojj-belarus-520134/"
+    },
+    {
+        "title": "Краска-спрей восстановитель для нубука и замши SILVER Specialist 3в1, с щеткой, коричневая, 250мл",
+        "sale_percent": 50,
+        "card_price": 94.79,
+        "regular_price": 189.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-06-07 02:00:00",
+        "url": "https://lenta.com/product/sprejjkraska-silver-vosstanov-dnubuka-i-zamshi-3-v-1-s-kauch-shchjtk-20-korichnevyjj-turciya-250ml-402231/"
+    },
+    {
+        "title": "Спрей для нубука и замши SILVER Восстанавливающий 3в1 с каучуковой щеткой 20% бесплатно, 250мл",
+        "sale_percent": 50,
+        "card_price": 94.79,
+        "regular_price": 189.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-06-07 02:00:00",
+        "url": "https://lenta.com/product/sprejj-silver-vosst-dnubuka-i-zamshi-3v1-s-kauch-shchetk-chern20bespl-turciya-250ml-355487/"
+    },
+    {
+        "title": "Краска-спрей для обуви и других изделий из кожи, замши, нубука, велюра и текстиля ДИВИДИК коричневая, 250мл",
+        "sale_percent": 50,
+        "card_price": 102.69,
+        "regular_price": 205.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-06-07 02:00:00",
+        "url": "https://lenta.com/product/kraska-dobuvi-dividik-i-drug-izdelijj-iz-kozhi-zamshi-nubuka-velyura-tekstilya-korichnev-rossiya-250-552590/"
+    },
+    {
+        "title": "Полустельки гелевые DAMAVIK размер S/M",
+        "sale_percent": 15,
+        "card_price": 124.99,
+        "regular_price": 147.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/polustelki-prochie-tovary-gelevye-razmer-sm-kitajj-638557/"
+    },
+    {
+        "title": "Подпяточники гелевые DAMAVIK размер S/M",
+        "sale_percent": 19,
+        "card_price": 169.99,
+        "regular_price": 210.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/podpyatochniki-prochie-tovary-gelevye-razmer-sm-kitajj-638688/"
+    }
+]

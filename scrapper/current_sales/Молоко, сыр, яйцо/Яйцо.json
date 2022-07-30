@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Яйцо куриное 365 ДНЕЙ С1, 30шт",
+        "sale_percent": 21,
+        "card_price": 199.99,
+        "regular_price": 252.69,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/yajjco-kurinoe-365-dnejj-s1-rossiya-30sht-143015/"
+    },
+    {
+        "title": "Яйцо куриное ЕВСИНСКОЕ С2, 10шт",
+        "sale_percent": 22,
+        "card_price": 68.99,
+        "regular_price": 88.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-06 02:00:00",
+        "url": "https://lenta.com/product/yajjco-kurinoe-evsinskoe-c2-rossiya-10sht-260173/"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "title": "Ролл Цезарь, 200г",
+        "sale_percent": 20,
+        "card_price": 109.99,
+        "regular_price": 136.89,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-09-07 00:00:00",
+        "url": "https://lenta.com/product/roll-cezar-lenta-rossiya-200g-382712/"
+    },
+    {
+        "title": "Удон ЛЕНТА с курицей в соусе терияки, 240г",
+        "sale_percent": 15,
+        "card_price": 118.09,
+        "regular_price": 138.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/udon-s-kuricejj-v-souse-teriyaki-lenta-rossiya-220g-432271/"
+    },
+    {
+        "title": "Сэндвич с ветчиной и сыром, 170г",
+        "sale_percent": 15,
+        "card_price": 89.39,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/sendvich-s-vetchinojj-i-syrom-170g-rossiya-170g-442476/"
+    },
+    {
+        "title": "Сэндвич с курицей и яйцом, 170г",
+        "sale_percent": 15,
+        "card_price": 121.69,
+        "regular_price": 143.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/sendvich-s-kuricejj-i-yajjcom-rossiya-170g-468446/"
+    },
+    {
+        "title": "Бургер с курицей и чесночным соусом, 265г",
+        "sale_percent": 15,
+        "card_price": 147.59,
+        "regular_price": 173.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/burger-s-kuricejj-i-chesnochnym-sousom-210g-rossiya-210g-442968/"
+    },
+    {
+        "title": "Бургер с говядиной и горчицей, 205г",
+        "sale_percent": 15,
+        "card_price": 206.69,
+        "regular_price": 243.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/burger-s-govyadinojj-i-gorchicejj-190g-rossiya-190g-442970/"
+    },
+    {
+        "title": "Картофель фри, весовой",
+        "sale_percent": 15,
+        "card_price": 638.79,
+        "regular_price": 751.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/gc-kartofel-fri-ves-rossiya-228115/"
+    },
+    {
+        "title": "Чебурек с говядиной, 140г",
+        "sale_percent": 15,
+        "card_price": 98.19,
+        "regular_price": 115.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/cheburek-s-govyadinojj-rossiya-140g-533341/"
+    },
+    {
+        "title": "Куриные крылышки фри, весовые",
+        "sale_percent": 15,
+        "card_price": 558.29,
+        "regular_price": 656.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/gc-kurinye-krylyshki-fri-ves-rossiya-486157/"
+    },
+    {
+        "title": "Куриные ножки фри, весовые",
+        "sale_percent": 15,
+        "card_price": 506.39,
+        "regular_price": 595.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/gc-kurinye-nozhki-fri-ves-rossiya-486156/"
+    },
+    {
+        "title": "Ролл Шаверма, 200г",
+        "sale_percent": 20,
+        "card_price": 109.99,
+        "regular_price": 136.89,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-09-07 00:00:00",
+        "url": "https://lenta.com/product/roll-shaverma-lenta-rossiya-200g-382711/"
+    },
+    {
+        "title": "Удон ЛЕНТА с креветкой в устричном соусе, 240г",
+        "sale_percent": 15,
+        "card_price": 196.79,
+        "regular_price": 231.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/udon-s-krevetkojj-v-ustrichnom-souse-lenta-rossiya-200g-432273/"
+    },
+    {
+        "title": "Сэндвич сэт с ветчиной и курицей, 170г",
+        "sale_percent": 15,
+        "card_price": 89.39,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/sendvich-set-s-vetchinojj-i-kuricejj-rossiya-170g-557512/"
+    },
+    {
+        "title": "Шаурма в тарелке, 380г",
+        "sale_percent": 15,
+        "card_price": 127.99,
+        "regular_price": 150.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/shaurma-v-tarelke-rossiya-380g-518566/"
+    },
+    {
+        "title": "Сэндвич сэт с рыбой, 165г",
+        "sale_percent": 15,
+        "card_price": 118.09,
+        "regular_price": 138.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/sendvich-set-s-rybojj-rossiya-165g-557513/"
+    },
+    {
+        "title": "Сэндвич с карбонадом, 140г",
+        "sale_percent": 15,
+        "card_price": 78.69,
+        "regular_price": 92.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/sendvich-s-karbonadom-rossiya-140g-442475/"
+    },
+    {
+        "title": "Сэндвич с лососем слабосоленым, 140г",
+        "sale_percent": 15,
+        "card_price": 137.79,
+        "regular_price": 162.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/sendvich-s-lososem-ss-rossiya-140g-468444/"
+    },
+    {
+        "title": "Фунчоза ЛЕНТА со свининой в кисло-сладком соусе, 240г",
+        "sale_percent": 15,
+        "card_price": 118.09,
+        "regular_price": 138.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/funchoza-so-svininojj-v-kislosladkom-souse-lenta-rossiya-220g-432275/"
+    },
+    {
+        "title": "Чапати с сыром, 185г",
+        "sale_percent": 15,
+        "card_price": 116.29,
+        "regular_price": 136.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/chapati-s-syrom-prochie-tovary-rossiya-185g-633904/"
+    },
+    {
+        "title": "Чапати с сыром и ветчиной, 200г",
+        "sale_percent": 15,
+        "card_price": 125.19,
+        "regular_price": 147.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/chapati-s-syrom-i-vetchinojj-prochie-tovary-rossiya-200g-633905/"
+    },
+    {
+        "title": "Чапати с пряной курочкой, 350г",
+        "sale_percent": 15,
+        "card_price": 232.59,
+        "regular_price": 273.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/chapati-s-pryanojj-kurochkojj-rossiya-350g-608575/"
+    },
+    {
+        "title": "Круассан с курицей, 120г",
+        "sale_percent": 15,
+        "card_price": 58.99,
+        "regular_price": 69.49,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/kruassan-s-kuricejj-rossiya-120g-478275/"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Трубочка жаренная ВОСХОД с повидлом, 85г",
+        "sale_percent": 15,
+        "card_price": 21.39,
+        "regular_price": 25.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/trubochka-voshod-zharennaya-s-povidlom-rossiya-85g-436385/"
+    },
+    {
+        "title": "Снек ВОСХОД с яблочной начинкой, 100г",
+        "sale_percent": 15,
+        "card_price": 30.29,
+        "regular_price": 35.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/snek-voshod-s-yablochnojj-nachinkojj-rossiya-100g-230112/"
+    },
+    {
+        "title": "Снек ВОСХОД с вишневой начинкой, 100г",
+        "sale_percent": 15,
+        "card_price": 30.29,
+        "regular_price": 35.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/snek-voshod-s-vishnevojj-nachinkojj-rossiya-100g-230117/"
+    },
+    {
+        "title": "Снек БУЛОЧКИНО с кремом со вкусом ванили и шоколада, 100г",
+        "sale_percent": 15,
+        "card_price": 32.99,
+        "regular_price": 38.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/snek-bulochkino-s-kremom-so-vkusom-vanili-i-shokolada-rossiya-100g-524911/"
+    },
+    {
+        "title": "Бублик ЛЕНТА, 100г",
+        "sale_percent": 15,
+        "card_price": 16.09,
+        "regular_price": 18.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/bublik-lenta-rossiya-100g-563158/"
+    },
+    {
+        "title": "Сдоба ЛЕНТА Московская, 150г",
+        "sale_percent": 15,
+        "card_price": 22.39,
+        "regular_price": 26.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/sdoba-lenta-moskovskaya-rossiya-150g-564974/"
+    },
+    {
+        "title": "Булочка ХК БЕРДСКИЙ С крошкой, 80г",
+        "sale_percent": 16,
+        "card_price": 9.69,
+        "regular_price": 11.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/bulochka-hk-berdskijj-s-kroshkojj-rossiya-80g-355801/"
+    },
+    {
+        "title": "Пирожок ВОСХОД с абрикосовой начинкой, 70г",
+        "sale_percent": 15,
+        "card_price": 21.39,
+        "regular_price": 25.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/pirozhok-voshod-s-abrikosovojj-nachinkojj-rossiya-70g-607300/"
+    },
+    {
+        "title": "Пирожок ВОСХОД с начинкой из черной смородины, 70г",
+        "sale_percent": 15,
+        "card_price": 21.39,
+        "regular_price": 25.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/pirozhok-voshod-s-nachinkojj-iz-chjrnojj-smorodiny-rossiya-70g-607318/"
+    },
+    {
+        "title": "Пирожок ВОСХОД с клюквенной начинкой, 70г",
+        "sale_percent": 15,
+        "card_price": 21.39,
+        "regular_price": 25.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/pirozhok-voshod-s-klyukvennojj-nachinkojj-rossiya-70g-607301/"
+    },
+    {
+        "title": "Круассаны ХК ИНСКОЙ С вареной сгущенкой, 80г",
+        "sale_percent": 15,
+        "card_price": 25.19,
+        "regular_price": 29.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/kruassany-inskojj-s-varenojj-sgushchenkojj-rossiya-80g-142103/"
+    },
+    {
+        "title": "Булочка ХК ИНСКОЙ Сметанная Шаньга, 100г",
+        "sale_percent": 15,
+        "card_price": 24.19,
+        "regular_price": 28.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/bulochka-inskojj-smetannaya-shanga-rossiya-100g-488947/"
+    },
+    {
+        "title": "Снек ВОСХОД с творожной начинкой, 100г",
+        "sale_percent": 15,
+        "card_price": 30.29,
+        "regular_price": 35.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/snek-voshod-s-tvorozhnojj--nachinkojj-rossiya-100g-230114/"
+    },
+    {
+        "title": "Булка ХК БЕРДСКИЙ Летняя, 80г",
+        "sale_percent": 16,
+        "card_price": 14.09,
+        "regular_price": 16.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/bulka-hk-berdskijj-letnyaya-rossiya-80g-355840/"
+    },
+    {
+        "title": "Штрудель 7DAYS с кремом какао, 80г",
+        "sale_percent": 15,
+        "card_price": 41.99,
+        "regular_price": 49.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/shtrudel-7days-s-kremom-kakao-rossiya-80g-536377/"
+    },
+    {
+        "title": "Снек ХК ИНСКОЙ с повидлом, 70г",
+        "sale_percent": 15,
+        "card_price": 17.89,
+        "regular_price": 21.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/snek-hk-inskojj-s-povidlom-rossiya-70g-638076/"
+    },
+    {
+        "title": "Коржик сдобный ХК ИНСКОЙ сливочно-ванильный, 100г",
+        "sale_percent": 15,
+        "card_price": 23.19,
+        "regular_price": 27.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/korzhik-hk-inskojj-sdobnyjj-slivochno-vanilnyjj-rossiya-100g-638178/"
+    },
+    {
+        "title": "Вертута ХК БЕРДСКИЙ с маком, 100г",
+        "sale_percent": 15,
+        "card_price": 18.39,
+        "regular_price": 21.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/vertuta-hk-berdskijj-s-makom-rossiya-100g-355787/"
+    },
+    {
+        "title": "Круассан 7DAYS с кремом какао, 80г",
+        "sale_percent": 27,
+        "card_price": 35.99,
+        "regular_price": 49.49,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-09-07 00:00:00",
+        "url": "https://lenta.com/product/kruassan-7days-s-kremom-kakao-rossiya-80g-536254/"
+    },
+    {
+        "title": "Сдоба ХК ИНСКОЙ Переменка с карамелью, 100г",
+        "sale_percent": 15,
+        "card_price": 26.79,
+        "regular_price": 31.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/sdoba-hk-inskojj-peremenka-s-karamelyu-rossiya-100g-581756/"
+    },
+    {
+        "title": "Пирожок ВОСХОД с малиновой начинкой, 70г",
+        "sale_percent": 15,
+        "card_price": 21.39,
+        "regular_price": 25.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/pirozhok-voshod-s-malinovojj-nachinkojj-rossiya-70g-607072/"
+    },
+    {
+        "title": "Сдоба ХК ИНСКОЙ Фаник Рулетик шоколадный, 90г",
+        "sale_percent": 15,
+        "card_price": 20.89,
+        "regular_price": 24.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/sdoba-hk-inskojj-fanik-ruletik-shokoladnyjj-rossiya-90g-581754/"
+    },
+    {
+        "title": "Сочень сдобный ХК ИНСКОЙ с творожно-лимонной начинкой, 90г",
+        "sale_percent": 15,
+        "card_price": 23.19,
+        "regular_price": 27.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/sochen-sdobnyjj-hk-inskojj-s-tvorozhno-limonnojj-nachinkojj-rossiya-90g-638170/"
+    },
+    {
+        "title": "Калачик ВОСХОД с начинкой со вкусом ванили, 100г",
+        "sale_percent": 15,
+        "card_price": 24.19,
+        "regular_price": 28.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/kalachik-voshod-s-nachinkojj-so-vkusom-vanili-rossiya-100g-638058/"
+    }
+]

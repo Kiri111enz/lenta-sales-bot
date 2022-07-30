@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Лаваш пшеничный МЭРИ-ЛАЙН Армянский, 300г",
+        "sale_percent": 34,
+        "card_price": 34.99,
+        "regular_price": 53.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/lavash-meri-lajjn-armyanskijj-pshenichnyjj-rossiya-300g-373077/"
+    },
+    {
+        "title": "Хлеб ВОСХОД Народный Бородинский в нарезке, 450г",
+        "sale_percent": 15,
+        "card_price": 44.29,
+        "regular_price": 52.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/hleb-voshod-narodnyjj-borodinskijj-nar-rossiya-450g-429508/"
+    },
+    {
+        "title": "Хлеб ЛЕНТА Бородинский в нарезке, 400г",
+        "sale_percent": 15,
+        "card_price": 19.69,
+        "regular_price": 23.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/hleb-lenta-borodinskijj-nar-rossiya-400g-462191/"
+    },
+    {
+        "title": "Хлеб ВОСХОД Украинский новый, 350г",
+        "sale_percent": 15,
+        "card_price": 30.49,
+        "regular_price": 35.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/hleb-voshod-ukrainskijj-novyjj-rossiya-350g-364877/"
+    },
+    {
+        "title": "Хлеб ВОСХОД Энерджи Прибалтийский в нарезке, 250г",
+        "sale_percent": 15,
+        "card_price": 30.79,
+        "regular_price": 36.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/hleb-voshod-enerdzhi-pribaltijjskijj-nar-rossiya-250g-487721/"
+    },
+    {
+        "title": "Лепешки тортильи MISSION Гриль, 250г",
+        "sale_percent": 19,
+        "card_price": 107.39,
+        "regular_price": 132.59,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/lepeshki-tortili-prochie-tovary-gril-rossiya-250g-626909/"
+    },
+    {
+        "title": "Булочка ВОСХОД Для гамбургера, 4х60г",
+        "sale_percent": 15,
+        "card_price": 62.49,
+        "regular_price": 73.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/bulochka-voshod-dlya-gamburgera-rossiya-460g-156364/"
+    },
+    {
+        "title": "Тортилья пшеничная МИЛКГРАД Мексиканская, лепешка, 270г",
+        "sale_percent": 20,
+        "card_price": 89.99,
+        "regular_price": 112.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/tortilya-prochie-tovary-meksikanskaya-pshenichnaya-lepeshka-rossiya-270g-612327/"
+    },
+    {
+        "title": "Хлеб ХК ИНСКОЙ Ржаное чудо в нарезке, 300г",
+        "sale_percent": 15,
+        "card_price": 41.89,
+        "regular_price": 49.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/hleb-inskojj-rzhanoe-chudo-nar-rossiya-300g-279638/"
+    },
+    {
+        "title": "Хлеб зерновой SIBIRIEN KORN BROT 6 злаков с полбой, в нарезке, 280г",
+        "sale_percent": 15,
+        "card_price": 41.99,
+        "regular_price": 49.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/hleb-sibirien-korn-brot-6-zlakov-s-polbojj-zernovojj-nar-rossiya-280g-560067/"
+    },
+    {
+        "title": "Хлеб зерновой SIBIRIEN KORN BROT Мультизлаковый со льном, в нарезке, 280г",
+        "sale_percent": 15,
+        "card_price": 41.99,
+        "regular_price": 49.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/hleb-sibirien-korn-brot-multizlakovyjj-so-lnom-zernovojj-nar-rossiya-280g-560178/"
+    },
+    {
+        "title": "Батон ХК ИНСКОЙ сдобный нарезной , 400г",
+        "sale_percent": 15,
+        "card_price": 40.09,
+        "regular_price": 47.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/baton-inskojj-sdobnyjj-nareznojj-v-up-rossiya-400g-511897/"
+    },
+    {
+        "title": "Булочка ВОСХОД для гамбургера нарез, 120г",
+        "sale_percent": 15,
+        "card_price": 28.19,
+        "regular_price": 33.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/bulochka-voshod-dlya-gamburgera-narez-rossiya-120g-478426/"
+    },
+    {
+        "title": "Хлеб ВОСХОД в нарезке, 640г",
+        "sale_percent": 15,
+        "card_price": 47.29,
+        "regular_price": 55.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/hleb-voshod-nar-rossiya-640g-607299/"
+    },
+    {
+        "title": "Лаваш МЭРИ-ЛАЙН со вкусом сыра, 200г",
+        "sale_percent": 15,
+        "card_price": 35.99,
+        "regular_price": 42.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/lavash-meri-lajjn-so-vkusom-syra-rossiya-200g-579675/"
+    },
+    {
+        "title": "Хлеб МОНАСТЫРСКИЙ ДВОР Российский, бездрожжевой, 1-го сорта, 350г",
+        "sale_percent": 20,
+        "card_price": 64.99,
+        "regular_price": 81.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/hleb-monastyrskijj-dvor-rossijjskijj-bezdrozhzhevojj-1s-rossiya-350g-549796/"
+    },
+    {
+        "title": "Хлеб ХК ИНСКОЙ Славянский б/дрожж в нарезке, 300г",
+        "sale_percent": 15,
+        "card_price": 33.89,
+        "regular_price": 39.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/hleb-inskojj-slavyanskijj-bdrozhzh-narezka-rossiya-300g-426361/"
+    },
+    {
+        "title": "Лепешка РИЗЫК, 400г",
+        "sale_percent": 15,
+        "card_price": 43.69,
+        "regular_price": 51.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/lepeshka-rizyk-rossiya-400g-232999/"
+    },
+    {
+        "title": "Тортилья пшеничная  МИЛКГРАД Мексиканская, лепешка со вкусом сыра, 160г",
+        "sale_percent": 15,
+        "card_price": 79.69,
+        "regular_price": 93.79,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/tortilya-prochie-tovary-meksikanskaya-pshenichnaya-lepeshka-so-vkusom-syra-rossiya-160g-612358/"
+    },
+    {
+        "title": "Хлеб ЛЕНТА Выбор Экспертов Богатырский с семенем тыквы, 250г",
+        "sale_percent": 15,
+        "card_price": 49.19,
+        "regular_price": 57.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/hleb-lenta-vybor-ekspertov-bogatyrskijj-s-semenem-tykvy-rossiya-250g-535410/"
+    },
+    {
+        "title": "Хлеб РУССКИЙ ХЛЕБ Купеческий с изюмом, в нарезке, 300г",
+        "sale_percent": 15,
+        "card_price": 22.99,
+        "regular_price": 27.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/hleb-russkijj-hleb-kupecheskijj-s-izyumom-v-narezke-rossiya-300g-481705/"
+    },
+    {
+        "title": "Тортилья пшеничная МИЛКГРАД Мексиканская, лепешка томатная с укропом, 160г",
+        "sale_percent": 15,
+        "card_price": 79.69,
+        "regular_price": 93.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/tortilya-prochie-tovary-meksikanskaya-pshenichnaya-lepeshka-tomatnaya-s-ukropom-rossiya-160g-612343/"
+    },
+    {
+        "title": "Хлеб ХК БЕРДСКИЙ Полезное зернышко, в нарезке, 350г",
+        "sale_percent": 15,
+        "card_price": 35.19,
+        "regular_price": 41.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/hleb-hk-berdskijj-poleznoe-zernyshko-narezka-rossiya-350g-355834/"
+    },
+    {
+        "title": "Булочка ХК ИНСКОЙ отрубная, 200г",
+        "sale_percent": 15,
+        "card_price": 26.79,
+        "regular_price": 31.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/bulochka-inskojj-otrubnaya-rossiya-200g-351375/"
+    }
+]

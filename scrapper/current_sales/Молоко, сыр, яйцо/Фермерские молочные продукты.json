@@ -1,0 +1,119 @@
+[
+    {
+        "title": "Сметана ТМ ФЕРМЕРСКОЕ 20%, без змж, 250г",
+        "sale_percent": 15,
+        "card_price": 83.79,
+        "regular_price": 98.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/smetana-tm-fermerskoe-20-rossiya-250g-338137/"
+    },
+    {
+        "title": "Молоко пастеризованное ТМ ФЕРМЕРСКОЕ 3,6–4,3%, без змж, 750мл",
+        "sale_percent": 15,
+        "card_price": 83.09,
+        "regular_price": 97.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/moloko-tm-fermerskoe-past-3643-stb-rossiya-750ml-338135/"
+    },
+    {
+        "title": "Йогурт ФЕРМЕРСКИЙ Домашний Вишня, черешня 2% ГОСТ, без змж, 220г",
+        "sale_percent": 15,
+        "card_price": 74.09,
+        "regular_price": 87.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/jjogurt-fermerskijj-domashnijj-gost-vishnyachereshnya-2-stb-rossiya-220g-434711/"
+    },
+    {
+        "title": "Ряженка СЕЛЬСКОЕ 4% ГОСТ, без змж, 900г",
+        "sale_percent": 15,
+        "card_price": 98.49,
+        "regular_price": 115.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/ryazhenka-selskoe-gost-4-pb-rossiya-900g-511936/"
+    },
+    {
+        "title": "Сметана СЕЛЬСКОЕ 15% ГОСТ, без змж, 250г",
+        "sale_percent": 15,
+        "card_price": 58.89,
+        "regular_price": 69.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/smetana-selskoe-gost-15-pst-rossiya-250g-511931/"
+    },
+    {
+        "title": "Йогурт ФЕРМЕРСКИЙ Домашний Черника 2% ГОСТ, без змж, 220г",
+        "sale_percent": 15,
+        "card_price": 74.09,
+        "regular_price": 87.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/jjogurt-fermerskijj-domashnijj-gost-chernika-2-stb-rossiya-220g-434710/"
+    },
+    {
+        "title": "Йогурт ФЕРМЕРСКИЙ Домашний Клубника 2% ГОСТ, без змж, 220г",
+        "sale_percent": 15,
+        "card_price": 74.09,
+        "regular_price": 87.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/jjogurt-fermerskijj-domashnijj-gost-klubnika-2-stb-rossiya-220g-434714/"
+    },
+    {
+        "title": "Молоко пастеризованное СЕЛЬСКОЕ 2,5% ГОСТ, без змж, 900мл",
+        "sale_percent": 15,
+        "card_price": 62.59,
+        "regular_price": 73.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/moloko-selskoe-pitevoe-past-gost-25-pb-rossiya-900ml-511935/"
+    },
+    {
+        "title": "Йогурт СЕЛЬСКОЕ Натуральный 2,4%, без змж, 250г",
+        "sale_percent": 15,
+        "card_price": 45.69,
+        "regular_price": 53.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/jjogurt-selskoe-naturalnyjj-24-pst-rossiya-250g-511932/"
+    },
+    {
+        "title": "Йогурт СЕЛЬСКОЕ Клубника 2%, без змж, 250г",
+        "sale_percent": 15,
+        "card_price": 48.29,
+        "regular_price": 56.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/jjogurt-selskoe-klubnika-2-pst-rossiya-250g-511934/"
+    },
+    {
+        "title": "Йогурт ФЕРМЕРСКИЙ Домашний Персик, маракуйя 2% ГОСТ, без змж, 220г",
+        "sale_percent": 15,
+        "card_price": 74.09,
+        "regular_price": 87.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/jjogurt-fermerskijj-domashnijj-gost-persik-i-marakujjya-2-stb-rossiya-220g-434713/"
+    },
+    {
+        "title": "Кефир ФЕРМЕРСКИЙ 2,5%, без змж, 750г",
+        "sale_percent": 15,
+        "card_price": 80.39,
+        "regular_price": 94.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-01 02:00:00",
+        "url": "https://lenta.com/product/kefir-fermerskijj-25-stb-bez-zmzh-rossiya-750g-596586/"
+    },
+    {
+        "title": "Сметана АЛТАЙСКАЯ КОЛЛЕКЦИЯ 20% ГОСТ, без змж, 315г",
+        "sale_percent": 30,
+        "card_price": 69.59,
+        "regular_price": 99.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/smetana-altajjskaya-kollekciya-gost-20-pst-bez-zmzh-rossiya-315g-595955/"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Огурцы среднеплодные гладкие, весовые",
+        "sale_percent": 47,
+        "card_price": 49.99,
+        "regular_price": 94.79,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/ogurcy-sredneplodnye-gladkie-ves-1kg-162743/"
+    },
+    {
+        "title": "Огурцы короткоплодные колючие, весовые",
+        "sale_percent": 21,
+        "card_price": 58.89,
+        "regular_price": 74.49,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/ogurcy-korotkoplodnye-kolyuchie-ves-1kg-168210/"
+    },
+    {
+        "title": "Морковь Эконом, весовая",
+        "sale_percent": 21,
+        "card_price": 54.39,
+        "regular_price": 68.79,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/morkov-ekonom-ves-1kg-303639/"
+    },
+    {
+        "title": "Томаты розовые, 500г",
+        "sale_percent": 24,
+        "card_price": 79.99,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/tomaty-rozovye-500g-280267/"
+    },
+    {
+        "title": "Томаты розовые, весовые",
+        "sale_percent": 35,
+        "card_price": 129.99,
+        "regular_price": 199.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/tomaty-rozovye-ves-1kg-239792/"
+    },
+    {
+        "title": "Огурцы короткоплодные ЛЕНТА колючие, 450г",
+        "sale_percent": 29,
+        "card_price": 59.99,
+        "regular_price": 84.29,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/ogurcy-lenta-korotkoplodnye-kolyuchie-rossiya-450g-520053/"
+    },
+    {
+        "title": "Редис, 500г",
+        "sale_percent": 22,
+        "card_price": 89.99,
+        "regular_price": 115.79,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/redis-500g-172378/"
+    },
+    {
+        "title": "Салат Айсберг",
+        "sale_percent": 26,
+        "card_price": 79.99,
+        "regular_price": 107.59,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/salat-ajjsberg-kochan-1sht-198359/"
+    },
+    {
+        "title": "Смесь овощная ЛЕНТА Мексиканская, 400г",
+        "sale_percent": 15,
+        "card_price": 107.39,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/smes-ovoshchnaya-lenta-meksikanskaya-rossiya-400g-359037/"
+    },
+    {
+        "title": "Огурцы тепличные гладкие среднеплодные, 600г",
+        "sale_percent": 32,
+        "card_price": 49.89,
+        "regular_price": 73.69,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/ogurcy-lenta-sredneplodnye-gladkie-600g-411017/"
+    },
+    {
+        "title": "Морковь новый урожай, весовая",
+        "sale_percent": 17,
+        "card_price": 69.99,
+        "regular_price": 84.29,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/morkov-novyjj-urozhajj-ves--sezon-blok-1kg-422463/"
+    },
+    {
+        "title": "Салат листовой в горшочке, шт",
+        "sale_percent": 41,
+        "card_price": 24.99,
+        "regular_price": 42.19,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/salat-listovojj-v-gorshochke-un-rossiya-1sht-580978/"
+    },
+    {
+        "title": "Капуста китайская/пекинская, весовая",
+        "sale_percent": 43,
+        "card_price": 59.99,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/kapusta-kitajjskayapekinskaya-ves-1kg-183430/"
+    },
+    {
+        "title": "Набор свежей зелени, 250г",
+        "sale_percent": 25,
+        "card_price": 86.99,
+        "regular_price": 115.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/nabor-zeleni-svezhejj-ukrop-petrushka-zelenyjj-luk-250g-392962/"
+    },
+    {
+        "title": "Капуста брокколи HORTEX, 700г",
+        "sale_percent": 15,
+        "card_price": 268.39,
+        "regular_price": 315.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/kapusta-hortex-brokkoli-rossiya-700g-498054/"
+    },
+    {
+        "title": "Картофель фри БАЙСАД замороженный, 1000г",
+        "sale_percent": 15,
+        "card_price": 268.39,
+        "regular_price": 315.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/kartofel-bajjsad-fri-zam-rossiya-1000g-354865/"
+    },
+    {
+        "title": "Томаты тепличные сливовидные, 600г",
+        "sale_percent": 17,
+        "card_price": 139.99,
+        "regular_price": 168.49,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-06 02:00:00",
+        "url": "https://lenta.com/product/tomaty-lenta-slivovidnye-600g-411016/"
+    },
+    {
+        "title": "Томаты черри Премиум, 200г",
+        "sale_percent": 31,
+        "card_price": 79.99,
+        "regular_price": 115.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/tomaty-cherri-premium-200g-tomaty-cherri-premium-200g-rossiya-200g-596524/"
+    },
+    {
+        "title": "Смесь овощная МИРАТОРГ Vитамин Карибская, 400г",
+        "sale_percent": 15,
+        "card_price": 150.09,
+        "regular_price": 176.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/smes-vitamin-karibskaya-sm-rossiya-400g-247703/"
+    },
+    {
+        "title": "Картофель фри ЛЕНТА замороженный, 700г",
+        "sale_percent": 15,
+        "card_price": 196.79,
+        "regular_price": 231.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/kartofel-lenta-fri-zam-rossiya-700g-370937/"
+    },
+    {
+        "title": "Смесь овощная ЛЕНТА Овощи по-деревенски, 400г",
+        "sale_percent": 15,
+        "card_price": 107.39,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/smes-ovoshchnaya-lenta-poderevenski-rossiya-400g-359149/"
+    },
+    {
+        "title": "Смесь овощная BONDUELLE Вок по-азиатски, 400г",
+        "sale_percent": 15,
+        "card_price": 223.69,
+        "regular_price": 263.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/smes-ovoshchnaya-bonduelle-vok-rossiya-400g-557290/"
+    },
+    {
+        "title": "Томаты коктейльные, на ветке, 450г",
+        "sale_percent": 21,
+        "card_price": 119.99,
+        "regular_price": 152.69,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-02 00:00:00",
+        "url": "https://lenta.com/product/tomaty-koktejjlnye-450g-341484/"
+    },
+    {
+        "title": "Капуста цветная ЛЕНТА замороженная, 400г",
+        "sale_percent": 15,
+        "card_price": 116.29,
+        "regular_price": 136.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/kapusta-lenta-cvetnaya-zam-serbiya-400g-455192/"
+    }
+]

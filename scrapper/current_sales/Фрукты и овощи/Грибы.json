@@ -1,0 +1,155 @@
+[
+    {
+        "title": "Шампиньоны, весовые",
+        "sale_percent": 29,
+        "card_price": 239.99,
+        "regular_price": 336.89,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/griby-shampinony-ves-1kg-364228/"
+    },
+    {
+        "title": "Шампиньоны ЛЕНТА GREEN, 400г",
+        "sale_percent": 22,
+        "card_price": 139.99,
+        "regular_price": 178.99,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/griby-lenta-green-shampinony-svezhie-rossiya-400g-558630/"
+    },
+    {
+        "title": "Шампиньоны, 250г",
+        "sale_percent": 19,
+        "card_price": 89.99,
+        "regular_price": 110.59,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/griby-lenta-green-shampinony-rossiya-250g-558639/"
+    },
+    {
+        "title": "Шампиньоны для запекания ЛЕНТА GREEN, 700г",
+        "sale_percent": 25,
+        "card_price": 219.99,
+        "regular_price": 294.79,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/griby-lenta-green-shampinony-dlya-zapekaniya-rossiya-700g-558631/"
+    },
+    {
+        "title": "Смесь из лесных грибов ЛЕНТА резаная, 400г",
+        "sale_percent": 26,
+        "card_price": 179.99,
+        "regular_price": 242.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/smes-gribnaya-lenta-iz-lesnyh-gribov-rezanaya-rossiya-400g-600332/"
+    },
+    {
+        "title": "Овощная смесь BONDUELLE Рис из цветной капусты с летними овощами и травами, 400г",
+        "sale_percent": 15,
+        "card_price": 214.69,
+        "regular_price": 252.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/ris-bonduelle-iz-cvetnojj-kapusty-s-letnimi-ovoshchami-i-travami-rossiya-400g-583057/"
+    },
+    {
+        "title": "Шампиньоны МОРОЗКО GREEN резаные, 400г",
+        "sale_percent": 15,
+        "card_price": 166.99,
+        "regular_price": 196.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/griby-morozko-green-shampinony-rezannye-rossiya-400g-302427/"
+    },
+    {
+        "title": "Опята СВОЙ УРОЖАЙ замороженные, 300г",
+        "sale_percent": 15,
+        "card_price": 187.89,
+        "regular_price": 221.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/opyata-svojj-urozhajj-zam-rossiya-300g-515497/"
+    },
+    {
+        "title": "Грибы белые И ЗИМОЙ И ЛЕТОМ, 300г",
+        "sale_percent": 15,
+        "card_price": 295.19,
+        "regular_price": 347.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/griby-i-zimojj-i-letom-belye-rossiya-300g-578528/"
+    },
+    {
+        "title": "Шампиньоны ЛЕНТА Королевские 400г",
+        "sale_percent": 23,
+        "card_price": 129.99,
+        "regular_price": 168.49,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/griby-lenta-green-shampinony-korolevskie-rossiya-400g-584415/"
+    },
+    {
+        "title": "Гратен SMART&EASY из цветной капусты, с традиционным сырным соусом, 600г",
+        "sale_percent": 15,
+        "card_price": 330.99,
+        "regular_price": 389.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/graten-smarteasy-iz-cvetnojj-kapusty-s-tradicionnym-syrnym-sousom-zam-belgiya-600g-459352/"
+    },
+    {
+        "title": "Шампиньоны СВОЙ УРОЖАЙ, 800г",
+        "sale_percent": 15,
+        "card_price": 243.39,
+        "regular_price": 286.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/shampinony-svojj-urozhajj-rossiya-800g-502132/"
+    },
+    {
+        "title": "Шампиньоны резаные, весовые",
+        "sale_percent": 15,
+        "card_price": 196.79,
+        "regular_price": 231.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/griby-shampinony-rez-sm-ves-import-1kg-158530/"
+    },
+    {
+        "title": "Маслята СВОЙ УРОЖАЙ замороженные, 300г",
+        "sale_percent": 15,
+        "card_price": 196.79,
+        "regular_price": 231.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/maslyata-svojj-urozhajj-zam-rossiya-300g-496378/"
+    },
+    {
+        "title": "Смесь SMART&EASY Садовая, с зеленой фасолью и киноа, 450г",
+        "sale_percent": 15,
+        "card_price": 268.39,
+        "regular_price": 315.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/smes-smarteasy-sadovaya-s-zelenojj-fasolyu-i-kinoa-zam-belgiya-450g-459348/"
+    },
+    {
+        "title": "Овощи гриль SMART&EASY в средиземноморском стиле замороженные, 600г",
+        "sale_percent": 15,
+        "card_price": 322.09,
+        "regular_price": 378.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/ovoshchi-gril-smarteasy-v-sredizemnomorskom-stile-zam-belgiya-600g-459350/"
+    },
+    {
+        "title": "Лисички свежие, 250г",
+        "sale_percent": 19,
+        "card_price": 299.99,
+        "regular_price": 368.49,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/griby-dedovskijj-hleb-lisichki-svezhie-rossiya-250g-634882/"
+    }
+]

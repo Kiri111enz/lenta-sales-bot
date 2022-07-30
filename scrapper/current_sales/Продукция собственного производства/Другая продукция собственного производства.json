@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Лапша яичная Домашняя, весовая",
+        "sale_percent": 15,
+        "card_price": 277.39,
+        "regular_price": 326.39,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/lapsha-yaichnaya-domashnyaya-ves-rossiya-523497/"
+    },
+    {
+        "title": "Лапша домашняя, весовая",
+        "sale_percent": 15,
+        "card_price": 277.39,
+        "regular_price": 326.39,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/lapsha-domashnyaya-ves-rossiya-523495/"
+    },
+    {
+        "title": "Лапша яичная Домашняя для лагмана, весовая",
+        "sale_percent": 15,
+        "card_price": 286.29,
+        "regular_price": 336.89,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/lapsha-yaichnaya-domashnyaya-dlagmana-ves-rossiya-523496/"
+    },
+    {
+        "title": "Лапша свекольная Домашняя, весовая",
+        "sale_percent": 15,
+        "card_price": 223.69,
+        "regular_price": 263.19,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/lapsha-domashnyaya-svekolnaya-ves-rossiya-602791/"
+    }
+]

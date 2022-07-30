@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Фигура шоколадная ЗОЛОТОЕ ПРАВИЛО Golden Rule Помада, 20г",
+        "sale_percent": 93,
+        "card_price": 9.99,
+        "regular_price": 136.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-31 00:00:00",
+        "url": "https://lenta.com/product/shokoladnaya-figura-zolotoe-pravilo-golden-rule-pomada-v-podar-upakovke-rossiya-20g-606747/"
+    },
+    {
+        "title": "Шоколад молочный КАПЛЯ РАДУГИ Собачки на палочке фигурный, 24г",
+        "sale_percent": 43,
+        "card_price": 42.89,
+        "regular_price": 75.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-09-05 02:00:00",
+        "url": "https://lenta.com/product/shokolad-kaplya-radugi-sobachki-molochnyjj-figurnyjj-na-palochke-rossiya-24g-448527/"
+    },
+    {
+        "title": "Конфеты шоколадные VOBRO с вишней в ликере, 98г",
+        "sale_percent": 74,
+        "card_price": 49.99,
+        "regular_price": 189.49,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-10-03 02:00:00",
+        "url": "https://lenta.com/product/konfety-vobro-shokoladnye-s-vishnejj-v-likere-polsha-90g-255084/"
+    },
+    {
+        "title": "Шоколад молочный МИНЬОНЫ Детский на палочке с печеньем фигурный, 24г",
+        "sale_percent": 37,
+        "card_price": 49.99,
+        "regular_price": 78.99,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-09-05 02:00:00",
+        "url": "https://lenta.com/product/shokolad-molochnyjj-minony-figurnyjj-na-palochke-s-pechenem-detskijj-rossiya-24g-478985/"
+    },
+    {
+        "title": "Набор шоколада RITTER SPORT Яркая весна, 200г",
+        "sale_percent": 50,
+        "card_price": 186.89,
+        "regular_price": 373.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-06-07 02:00:00",
+        "url": "https://lenta.com/product/nabor-ritter-sport-shokolada-yarkaya-vesna-germaniya-200g-607473/"
+    }
+]

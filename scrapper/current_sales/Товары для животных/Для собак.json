@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Корм сухой для взрослых собак PEDIGREE с говядиной, для всех пород, полнорационный, 2,2кг",
+        "sale_percent": 18,
+        "card_price": 429.99,
+        "regular_price": 526.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/korm-dlya-vzroslyh-sobak-pedigree-govyadina-dvseh-porod-rossiya-22kg-289577/"
+    },
+    {
+        "title": "Корм сухой для взрослых собак PEDIGREE с говядиной, для маленьких пород, 2,2кг",
+        "sale_percent": 28,
+        "card_price": 439.99,
+        "regular_price": 609.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/korm-dlya-vzroslyh-sobak-pedigree-govyadina-dmelkporod-rossiya-22kg-289595/"
+    },
+    {
+        "title": "Лакомство для собак ДЕРЕВЕНСКИЕ ЛАКОМСТВА Нежные шашлычки куриные, 90г",
+        "sale_percent": 19,
+        "card_price": 259.99,
+        "regular_price": 321.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/lakomstvo-dlya-sobak-derevenskie-lakomstva-kurinye-shashlychki-nezhnye-kitajj-90g-468252/"
+    },
+    {
+        "title": "Корм сухой для щенков PEDIGREE с курицей, с 2 месяцев, для всех пород, полнорационный, 2,2кг",
+        "sale_percent": 20,
+        "card_price": 439.99,
+        "regular_price": 547.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/korm-dlya-shchenkov-pedigree-kurica-dvseh-porod-rossiya-22kg-289592/"
+    },
+    {
+        "title": "Лакомство для собак ДЕРЕВЕНСКИЕ ЛАКОМСТВА Медальоны из ягненка, для мини-пород, 55г",
+        "sale_percent": 19,
+        "card_price": 189.99,
+        "regular_price": 234.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/lakomstvo-dsobak-derevenskie-lakomstva-dminiporod-medalony-iz-yagnenka-kitajj-55g-401117/"
+    },
+    {
+        "title": "Лакомства для собак TITBIT Золотая коллекция Шарики с сыром, 95г",
+        "sale_percent": 30,
+        "card_price": 61.99,
+        "regular_price": 88.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/lakomstva-dsobak-titbit-shariki-s-syrom-zolotaya-kollekciya-rossiya-95g-557950/"
+    },
+    {
+        "title": "Корм консервированный для взрослых собак WINNER Extra Meat Телятина в соусе, для всех пород, 85г",
+        "sale_percent": 34,
+        "card_price": 26.49,
+        "regular_price": 39.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/korm-dlya-sobak-miratorg-extra-meat-dvzr-vseh-porod-telyatina-v-souse-rossiya-85g-584089/"
+    },
+    {
+        "title": "Корм консервированный для взрослых собак ЗООГУРМАН Лосось кусочки в \r\nжеле, 85г",
+        "sale_percent": 19,
+        "card_price": 29.99,
+        "regular_price": 36.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/korm-dlya-sobak-zoogurman-s-lososem-kusochki-v-souse-pauch-rossiya-85g-637923/"
+    },
+    {
+        "title": "Корм консервированный для взрослых собак ЗООГУРМАН Телятина с индейкой кусочки в соусе, 85г",
+        "sale_percent": 19,
+        "card_price": 29.99,
+        "regular_price": 36.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/korm-dlya-sobak-zoogurman-telyatina-s-indejjkojj-kusochki-v-souse-pauch-rossiya-85g-637922/"
+    },
+    {
+        "title": "Корм консервированный для взрослых собак ЗООГУРМАН Ягненок с языком и сердцем кусочки в соусе, 85г",
+        "sale_percent": 19,
+        "card_price": 29.99,
+        "regular_price": 36.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/korm-dlya-sobak-zoogurman-yagnenok-s-yazykom-i-serdcem-kusochki-v-souse-pauch-rossiya-85g-637924/"
+    },
+    {
+        "title": "Корм консервированный для взрослых собак ЗООГУРМАН Говядина отборная кусочки в соусе, 85г",
+        "sale_percent": 19,
+        "card_price": 29.99,
+        "regular_price": 36.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/korm-dlya-sobak-zoogurman-govyadina-otbornaya-kusochki-v-souse-pauch-rossiya-85g-637921/"
+    },
+    {
+        "title": "Корм консервированный для взрослых собак ЧЕТВЕРОНОГИЙ ГУРМАН Мясное ассорти с ягненком, 100г",
+        "sale_percent": 30,
+        "card_price": 51.59,
+        "regular_price": 73.69,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-24 02:00:00",
+        "url": "https://lenta.com/product/korm-dsobak-chetveronogijj-gurman-kon-myasnoe-assorti-s-yagnenkom-rossiya-100g-550863/"
+    },
+    {
+        "title": "Лакомство для собак PEDIGREE Schmackos Мясные палочки с говядиной, 33г",
+        "sale_percent": 30,
+        "card_price": 107.59,
+        "regular_price": 153.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/lakomstvo-dsobak-pedigree-schmackos-myasnye-palochki-s-govyadinojj-avstriya-33g-547553/"
+    },
+    {
+        "title": "Лакомство для взрослых собак TITBIT Хрустики диетические, 75г",
+        "sale_percent": 30,
+        "card_price": 132.69,
+        "regular_price": 189.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-10 02:00:00",
+        "url": "https://lenta.com/product/lakomstvo-dlya-sobak-titbit-hrustiki-dieticheskie-mu-rossiya-75g-429917/"
+    },
+    {
+        "title": "Лакомства для собак TITBIT Колбасный двор Сервелат Кремлевский, 200г",
+        "sale_percent": 30,
+        "card_price": 161.49,
+        "regular_price": 230.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/lakomstvo-dlya-sobak-prochie-tovary-servelat-kremlevskijj-kolbasnyjj-dvor-rossiya-200g-631478/"
+    },
+    {
+        "title": "Лакомство для собак ДЕРЕВЕНСКИЕ ЛАКОМСТВА Грудки куриные, для мини-пород, 55г",
+        "sale_percent": 19,
+        "card_price": 184.99,
+        "regular_price": 229.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/lakomstvo-dlya-sobak-derevenskie-lakomstva-dlya-miniporod-grudki-kurinye-kitajj-55g-401188/"
+    },
+    {
+        "title": "Лакомство для собак ДЕРЕВЕНСКИЕ ЛАКОМСТВА Дольки утиные, для мини-пород, 55г",
+        "sale_percent": 19,
+        "card_price": 189.99,
+        "regular_price": 234.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/lakomstvo-dsobak-derevenskie-lakomstva-dminiporod-dolki-utinye-kitajj-55g-401211/"
+    },
+    {
+        "title": "Лакомство для собак ДЕРЕВЕНСКИЕ ЛАКОМСТВА Косточки утиные, для мини-пород, 55г",
+        "sale_percent": 19,
+        "card_price": 189.99,
+        "regular_price": 234.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/lakomstvo-dsobak-derevenskie-lakomstva-dminiporod-kostochki-utinye-kitajj-55g-401210/"
+    },
+    {
+        "title": "Лакомство для собак ДЕРЕВЕНСКИЕ ЛАКОМСТВА Нежная соломка утиная, 90г",
+        "sale_percent": 19,
+        "card_price": 254.99,
+        "regular_price": 315.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/lakomstvo-dlya-sobak-derevenskie-lakomstva-utinaya-solomka-nezhnaya-kitajj-90g-355292/"
+    },
+    {
+        "title": "Корм сухой для взрослых собак BRIT Premium Adult L для крупных пород, 15кг",
+        "sale_percent": 19,
+        "card_price": 4419.99,
+        "regular_price": 5473.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/korm-dlya-vzroslyh-sobak-brit-krupporod-chehiya-15kg-278931/"
+    }
+]

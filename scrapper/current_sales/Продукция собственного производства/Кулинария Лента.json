@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Цыпленок По-кавказски, весовой",
+        "sale_percent": 15,
+        "card_price": 447.39,
+        "regular_price": 526.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/gc-cyplenok-pokavkazski-ves-rossiya-351347/"
+    },
+    {
+        "title": "Морковь По-корейски, весовая",
+        "sale_percent": 15,
+        "card_price": 232.39,
+        "regular_price": 273.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/morkov-pokorejjski-sobstvennoe-proizvodstvo-lenta-ves-rossiya-371927/"
+    },
+    {
+        "title": "Стрипсы куриные Хрустящие, весовые",
+        "sale_percent": 20,
+        "card_price": 449.99,
+        "regular_price": 559.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/stripsy-kurinye-hrustyashchie-ves-rossiya-258662/"
+    },
+    {
+        "title": "Закуска Курица по-корейски, весовая",
+        "sale_percent": 15,
+        "card_price": 491.89,
+        "regular_price": 578.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/zakuska-kurica-pokorejjski-ves-rossiya-349564/"
+    },
+    {
+        "title": "Фунчоза По-восточному с овощами, весовая",
+        "sale_percent": 15,
+        "card_price": 286.09,
+        "regular_price": 336.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/funchoza-povostochnomu-s-ovoshchami-sobstvennoe-proizvodstvo-lenta-ves-rossiya-344417/"
+    },
+    {
+        "title": "Салат Цезарь, весовой",
+        "sale_percent": 15,
+        "card_price": 715.79,
+        "regular_price": 842.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/salat-cezar--ves-rossiya-176802/"
+    },
+    {
+        "title": "Салат Жар-Птица",
+        "sale_percent": 15,
+        "card_price": 447.39,
+        "regular_price": 526.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/salat-zharptica-rossiya-134998/"
+    },
+    {
+        "title": "Салат Грация, весовой",
+        "sale_percent": 15,
+        "card_price": 723.79,
+        "regular_price": 851.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/salat-graciya-ves-rossiya-120837/"
+    },
+    {
+        "title": "Оладьи печеночные с грибами, весовые",
+        "sale_percent": 15,
+        "card_price": 590.39,
+        "regular_price": 694.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/gc-oladi-pechenochnye-s-gribami-ves-rossiya-180731/"
+    },
+    {
+        "title": "Свинина Богатырь, весовой",
+        "sale_percent": 15,
+        "card_price": 626.29,
+        "regular_price": 736.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/gc-svinina-bogatyr-ves-rossiya-100629/"
+    },
+    {
+        "title": "Салат из спаржи с морковью, весовой",
+        "sale_percent": 15,
+        "card_price": 330.79,
+        "regular_price": 389.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/salat-iz-sparzhi-s-morkovyu-ves-rossiya-100631/"
+    },
+    {
+        "title": "Тушки варено-копченые куриные, весовые",
+        "sale_percent": 15,
+        "card_price": 411.29,
+        "regular_price": 483.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/gc-tushki-kurinye-vk-ves-rossiya-221638/"
+    },
+    {
+        "title": "Беляши, весовые",
+        "sale_percent": 15,
+        "card_price": 312.99,
+        "regular_price": 368.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/gc-belyashi-ves-rossiya-427572/"
+    },
+    {
+        "title": "Сырники Домашние, весовые",
+        "sale_percent": 15,
+        "card_price": 536.79,
+        "regular_price": 631.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/gc-syrniki-domashnie-ves-rossiya-360047/"
+    },
+    {
+        "title": "Каша рисовая НАТУРБУФЕТ на молоке, 200г",
+        "sale_percent": 15,
+        "card_price": 71.59,
+        "regular_price": 84.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/kasha-naturbufet-risovaya-na-moloke-rossiya-200g-539265/"
+    },
+    {
+        "title": "Салат из морской капусты с острой морковью, весовой",
+        "sale_percent": 15,
+        "card_price": 205.59,
+        "regular_price": 241.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/salat-iz-morskojj-kapusty-s-ostrojj-morkovyu-ves-rossiya-458154/"
+    },
+    {
+        "title": "Борщ НАТУРБУФЕТ с мясом, 340г",
+        "sale_percent": 15,
+        "card_price": 138.69,
+        "regular_price": 163.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/borshch-naturbufet-s-myasom-rossiya-340g-384282/"
+    },
+    {
+        "title": "Салат Оливье без майонеза, весовой",
+        "sale_percent": 28,
+        "card_price": 409.99,
+        "regular_price": 568.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/salat-olive-bez-majjoneza-ves-rossiya-248095/"
+    },
+    {
+        "title": "Треска с овощами, весовая",
+        "sale_percent": 15,
+        "card_price": 558.29,
+        "regular_price": 656.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/gc-treska-s-ovoshchami-ves-rossiya-377132/"
+    },
+    {
+        "title": "Плов из говядины, весовой",
+        "sale_percent": 15,
+        "card_price": 473.99,
+        "regular_price": 557.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/plov-iz-govyadiny-ves-rossiya-559428/"
+    },
+    {
+        "title": "Тефтели из курицы и индейки НАТУРБУФЕТ с картофельным пюре, 250г",
+        "sale_percent": 15,
+        "card_price": 133.29,
+        "regular_price": 156.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/tefteli-naturbufet-iz-kuricy-i-indejjki-s-kartofelnym-pyure-rossiya-250g-386440/"
+    },
+    {
+        "title": "Мясо томленое НАТУРБУФЕТ с гречневой кашей, 250г",
+        "sale_percent": 15,
+        "card_price": 155.69,
+        "regular_price": 183.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/myaso-tomlenoe-naturbufet-s-grechnevojj-kashejj-rossiya-250g-384285/"
+    },
+    {
+        "title": "Паста НАТУРБУФЕТ Болоньезе, 250г",
+        "sale_percent": 15,
+        "card_price": 135.09,
+        "regular_price": 158.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/pasta-naturbufet-boloneze-rossiya-250g-342233/"
+    },
+    {
+        "title": "Говядина НАТУРБУФЕТ в пряном соусе с пенне, 250г",
+        "sale_percent": 15,
+        "card_price": 159.19,
+        "regular_price": 187.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/govyadina-naturbufet-v-pryanom-souse-s-penne-rossiya-250g-384286/"
+    }
+]

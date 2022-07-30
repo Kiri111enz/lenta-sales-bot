@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Перец халапеньо маринованный ЛЕНТА красный, 370мл",
+        "sale_percent": 23,
+        "card_price": 154.99,
+        "regular_price": 199.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/perec-lenta-halapeno-krasnyjj-marinovannyjj-rossiya-370ml-611430/"
+    },
+    {
+        "title": "Сливки кокосовые THAI COCO крем из мякоти кокосового ореха мдж 22–24%, 250мл",
+        "sale_percent": 37,
+        "card_price": 79.99,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-09-02 02:00:00",
+        "url": "https://lenta.com/product/slivki-kokosovye-thai-coco-krem-iz-myakoti-kokosovogo-oreha-zhir-2224-tailand-250ml-534527/"
+    },
+    {
+        "title": "Имбирь белый маринованный ЛЕНТА, 250мл",
+        "sale_percent": 24,
+        "card_price": 119.99,
+        "regular_price": 157.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/imbir-lenta-belyjj-marinovannyjj-sb-rossiya-250ml-582538/"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Шоколад молочный RITTER SPORT Цельный лесной орех, 100г",
+        "sale_percent": 37,
+        "card_price": 119.89,
+        "regular_price": 189.49,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-ritter-sport-celnlesnoreh-molochs-celobzharennym-orehom-leshchiny-germaniya-100g-371232/"
+    },
+    {
+        "title": "Шоколадные батончики SNICKERS Super, 80г",
+        "sale_percent": 23,
+        "card_price": 52.89,
+        "regular_price": 68.39,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/shokoladnye-batonchiki-snickers-super-rossiya-80-g-580825/"
+    },
+    {
+        "title": "Паста ореховая NUTELLA с добавлением какао, 350г",
+        "sale_percent": 34,
+        "card_price": 317.79,
+        "regular_price": 477.89,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/pasta-nutella-orehovaya-s-dobavleniem-kakao-rossiya-350g-113412/"
+    },
+    {
+        "title": "Шоколад молочный ALPEN GOLD с дробленым фундуком, 85г",
+        "sale_percent": 35,
+        "card_price": 54.89,
+        "regular_price": 84.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-alpen-gold-molochnyjj-s-droblenym-fundukom-rossiya-85g-546191/"
+    },
+    {
+        "title": "Батончик шоколадный MARS Max с нугой и карамелью, 81г",
+        "sale_percent": 23,
+        "card_price": 52.89,
+        "regular_price": 68.39,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/batonchik-shokoladnyjj-mars-max-s-nugojj-i-karamelyu-pokrytyjj-molochnym-shokoladom-81g-rossiya-81g-266605/"
+    },
+    {
+        "title": "Шоколад молочный RITTER SPORT Лесной орех, 100г",
+        "sale_percent": 32,
+        "card_price": 99.89,
+        "regular_price": 147.39,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-ritter-sport-lesnojj-oreh-molochnyjj-s-orehom-leshchiny-germaniya-100g-376605/"
+    },
+    {
+        "title": "Батончик шоколадный MILKY WAY 1+1 с суфле, 52г",
+        "sale_percent": 26,
+        "card_price": 38.89,
+        "regular_price": 52.69,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/batonchik-shokoladnyjj-milky-way-11-s-sufle-rossiya-52g-149018/"
+    },
+    {
+        "title": "Шоколад молочный ALPEN GOLD с фундуком и изюмом, 85г",
+        "sale_percent": 35,
+        "card_price": 54.89,
+        "regular_price": 84.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-alpen-gold-molochnyjj-s-fundukom-i-izyumom-rossiya-85g-546190/"
+    },
+    {
+        "title": "Шоколад молочный RITTER SPORT Карамельный мусс с миндалем, 100г",
+        "sale_percent": 32,
+        "card_price": 99.89,
+        "regular_price": 147.39,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-molochnyjj-ritter-sport-karamelnyjj-muss-s-karamelnojj-nach-i-kus-solenogo-mindalya-germani-439736/"
+    },
+    {
+        "title": "Шоколад темный RITTER SPORT Цельный лесной орех, 100г",
+        "sale_percent": 37,
+        "card_price": 119.89,
+        "regular_price": 189.49,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-ritter-sport-celnlesnoreh-temns-celobzharennym-orehom-leshchiny-germaniya-100g-371233/"
+    },
+    {
+        "title": "Батончик шоколадный SNICKERS Лесной орех, 81г",
+        "sale_percent": 23,
+        "card_price": 52.89,
+        "regular_price": 68.39,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/batonchik-shokoladnyjj-snickers-lesnojj-oreh-rossiya-81g-113556/"
+    },
+    {
+        "title": "Шоколадный батончик PICNIC BIG, 76г",
+        "sale_percent": 14,
+        "card_price": 55.89,
+        "regular_price": 64.79,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-10 02:00:00",
+        "url": "https://lenta.com/product/konfeta-picnic-big-s-arahis-i-izyumnach-iz-myagkojj-karamvaf-i-vozdrisa-rossiya-76g-337726/"
+    },
+    {
+        "title": "Шоколад молочный ALPEN GOLD Арахис и кукурузные хлопья, 85г",
+        "sale_percent": 35,
+        "card_price": 54.89,
+        "regular_price": 84.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-alpen-gold-molochnyjj-arahiskukuruznye-hlopya-rossiya-85g-546186/"
+    },
+    {
+        "title": "Шоколад белый RITTER SPORT Цельный лесной орех и хлопья, 100г",
+        "sale_percent": 37,
+        "card_price": 119.89,
+        "regular_price": 189.49,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-ritter-sport-celnlesnoreh-i-hlopya-bels-celobzhorehleshchi-hlopyami-germaniya-100g-371230/"
+    },
+    {
+        "title": "Шоколад молочный АЛЁНКА, 90г",
+        "sale_percent": 53,
+        "card_price": 59.89,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-25 02:00:00",
+        "sale_end": "2022-09-07 02:00:00",
+        "url": "https://lenta.com/product/shokolad-molochnyjj-alenka-rossiya-90g-572272/"
+    },
+    {
+        "title": "Шоколад молочный ALPEN GOLD с клубнично-йогуртовой начинкой, 85г",
+        "sale_percent": 35,
+        "card_price": 54.89,
+        "regular_price": 84.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-alpen-gold-molochnyjj-s-klubnichnojjogurtnachinkojj-rossiya-85g-546180/"
+    },
+    {
+        "title": "Шоколадный батончик PICNIC Грецкий орех, 52г",
+        "sale_percent": 18,
+        "card_price": 45.89,
+        "regular_price": 55.69,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-10 02:00:00",
+        "url": "https://lenta.com/product/konfeta-picnic-greckijj-oreh-rossiya-52g-291005/"
+    },
+    {
+        "title": "Шоколад темный ALPEN GOLD Dark Пикантная вишня с вишневыми кусочками со вкусом перца, 80г",
+        "sale_percent": 41,
+        "card_price": 49.89,
+        "regular_price": 84.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-alpen-gold-temnyjj-pikantnaya-vishnya-s-vishnevymi-kusochkami-so-vkusom-perca-rossiya-80g-546194/"
+    },
+    {
+        "title": "Шоколад молочный RITTER SPORT Цельный миндаль, 100г",
+        "sale_percent": 37,
+        "card_price": 119.89,
+        "regular_price": 189.49,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-ritter-sport-celnyjj-mindal-molochnyjj-s-celnym-mindalem-germaniya-100g-371234/"
+    },
+    {
+        "title": "Шоколад темный RITTER SPORT Миндаль и апельсин, 100г",
+        "sale_percent": 32,
+        "card_price": 99.89,
+        "regular_price": 147.39,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-ritter-sport-temnyjj-s-drobl-mindalem-i-kusochkami-apelsinovojj-cedry-germaniya-100g-519227/"
+    },
+    {
+        "title": "Шоколад молочный MILKA Oreo с круглым печеньем и начинкой со вкусом ванили, 92г",
+        "sale_percent": 44,
+        "card_price": 79.89,
+        "regular_price": 142.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-milka-molochnyjj-s-pechenem-oreo-s-nachinkojj-so-vkusom-vanili-vengriya-92g-474268/"
+    },
+    {
+        "title": "Шоколад молочный ALPEN GOLD с соленым миндалем и карамелью, 85г",
+        "sale_percent": 35,
+        "card_price": 54.89,
+        "regular_price": 84.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-alpen-gold-molochnyjj-s-solenym-mindalem-i-karamelyu-rossiya-85g-546184/"
+    },
+    {
+        "title": "Шоколад темный RITTER SPORT Мята, 100г",
+        "sale_percent": 32,
+        "card_price": 99.89,
+        "regular_price": 147.39,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-ritter-sport-myata-temnyjj-s-myatnojj-nachinkojj-germaniya-100g-340178/"
+    },
+    {
+        "title": "Шоколад молочный RITTER SPORT с соленым кешью, 100г",
+        "sale_percent": 37,
+        "card_price": 119.89,
+        "regular_price": 189.49,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/shokolad-molochnyjj-prochie-tovary-s-soljnym-keshyu-germaniya-100g-626775/"
+    }
+]

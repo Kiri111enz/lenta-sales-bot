@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Лопатка свиная бескостная, весовая",
+        "sale_percent": 15,
+        "card_price": 306.19,
+        "regular_price": 360.29,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-11-06 02:00:00",
+        "url": "https://lenta.com/product/svinina-lopatka-bk-kusok-ohl-ves-rossiya-1kg-423793/"
+    },
+    {
+        "title": "Шея свиная бескостная, категория Б, весовая",
+        "sale_percent": 21,
+        "card_price": 419.9,
+        "regular_price": 529.09,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/svinina-sheya-bk-kusok-ohl-ves-rossiya-1kg-422842/"
+    },
+    {
+        "title": "Шашлык из свиной лопатки, бескостный, в маринаде Алабама, категория Б, весовой",
+        "sale_percent": 35,
+        "card_price": 349.99,
+        "regular_price": 536.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 00:00:00",
+        "url": "https://lenta.com/product/pf-shashlyk-iz-svinojj-lopatki-bk-v-marinade-alabama-katb-ohl-ves-rossiya-232109/"
+    },
+    {
+        "title": "Шашлык из свиной шеи, бескостный, в брусничном маринаде, категория Б, весовой",
+        "sale_percent": 28,
+        "card_price": 449.99,
+        "regular_price": 621.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 00:00:00",
+        "url": "https://lenta.com/product/pf-shashlyk-iz-svinojj-shei-bk-v-marbrusnichnyjj-katb-ohl-ves-rossiya-352256/"
+    },
+    {
+        "title": "Шашлык из свиной корейки, бескостный, в сливочном соусе, категория Б, весовой",
+        "sale_percent": 26,
+        "card_price": 319.99,
+        "regular_price": 431.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pf-shashlyk-iz-svinojj-korejjki-bk-v-slivochnom-souse-katb-ohl-ves-rossiya-181547/"
+    },
+    {
+        "title": "Фарш из говядины МЯСОДЕЛОВ категория А, 500г",
+        "sale_percent": 15,
+        "card_price": 266.59,
+        "regular_price": 313.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/farsh-myasodelov-iz-govyadiny-ohl-vu-kat-a-500g-rossiya-500g-604686/"
+    },
+    {
+        "title": "Шашлык из свиного окорока, бескостный, в маринаде Грузинский, категория Б, весовой",
+        "sale_percent": 28,
+        "card_price": 339.99,
+        "regular_price": 474.27,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-01 00:00:00",
+        "url": "https://lenta.com/product/pf-shashlyk-iz-svinogo-okoroka-bk-v-margruzinskijj-katb-ohl-ves-rossiya-352255/"
+    },
+    {
+        "title": "Стейк из мраморной говядины МИРАТОРГ Пиканья Black Angus, 325г",
+        "sale_percent": 23,
+        "card_price": 399.99,
+        "regular_price": 520.79,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-01 00:00:00",
+        "url": "https://lenta.com/product/stejjk-miratorg-pikanya-rvk-rossiya-325g-477564/"
+    },
+    {
+        "title": "Фарш ЛЕНТА Традиционный, категория А, 400г",
+        "sale_percent": 15,
+        "card_price": 160.99,
+        "regular_price": 189.49,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/farsh-lenta-tradicionnyjj-kata--ohl-rossiya-400g-492869/"
+    },
+    {
+        "title": "Говядина МИРАТОРГ Блэк Ангус, мякоть бедра, бескостная , 800г",
+        "sale_percent": 15,
+        "card_price": 778.39,
+        "regular_price": 915.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/govyadina-miratorg-myakot-bedra-bk-blek-angus-ohl-vu-rossiya-800g-494199/"
+    },
+    {
+        "title": "Фарш МЯСОДЕЛОВ Домашний, категория В, 500г",
+        "sale_percent": 15,
+        "card_price": 184.29,
+        "regular_price": 216.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/farsh-myasodelov-domashnijj-katb-vu-ohl-rossiya-500g-509655/"
+    },
+    {
+        "title": "Стейк из говядины МИРАТОРГ Стриплойн, категория А, 500г",
+        "sale_percent": 15,
+        "card_price": 626.29,
+        "regular_price": 736.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/stejjk-miratorg-fb-iz-govyadiny-striplojjn-kata-ohl-vu-rossiya-500g-638152/"
+    },
+    {
+        "title": "Мякоть телячья для тушения МИРАТОРГ, 600г",
+        "sale_percent": 15,
+        "card_price": 483.19,
+        "regular_price": 568.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/telyatina-miratorg-myakot-dtusheniya-ohl-rossiya-600g-553114/"
+    },
+    {
+        "title": "Фарш СИБАГРО Домашний, категория Б, 400г",
+        "sale_percent": 15,
+        "card_price": 167.29,
+        "regular_price": 196.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/farsh-sibagro-domashnijj-katb-gazsreda-ohl-rossiya-400g-551198/"
+    },
+    {
+        "title": "Толстый край говяжий СПК бескостный, весовой",
+        "sale_percent": 15,
+        "card_price": 541.29,
+        "regular_price": 636.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/govyadina-spk-tolstyjj-krajj-bk-vu-ohl-ves-rossiya-1kg-474517/"
+    },
+    {
+        "title": "Колбаски свиные для жарки ЛЕНТА Гриль, 400г",
+        "sale_percent": 19,
+        "card_price": 144.99,
+        "regular_price": 178.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/kolbaski-lenta-svinye-dzharki-babrekyu-ohl-rossiya-400g-492762/"
+    },
+    {
+        "title": "Шашлык из свиной лопатки, бескостный, в томатном соке, категория Б, весовой",
+        "sale_percent": 47,
+        "card_price": 249.99,
+        "regular_price": 473.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 00:00:00",
+        "url": "https://lenta.com/product/pf-shashlyk-iz-svinojj-lopatki-v-tomatnom-soke-ves-ohl-ves-rossiya-467034/"
+    },
+    {
+        "title": "Стейк из мраморной говядины МИРАТОРГ Рибай Black Angus, 320г",
+        "sale_percent": 15,
+        "card_price": 968.09,
+        "regular_price": 1138.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/govyadina-miratorg-stejjk-ribajj-blek-angus-rvk-ohl-rossiya-320g-359721/"
+    },
+    {
+        "title": "Стейк из мраморной говядины МИРАТОРГ Минутка Black Angus, 190г",
+        "sale_percent": 31,
+        "card_price": 199.99,
+        "regular_price": 288.59,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-01 00:00:00",
+        "url": "https://lenta.com/product/govyadina-miratorg-mramornaya-stejjk-minutka-black-angus-ohl-rossiya-190g-528030/"
+    },
+    {
+        "title": "Фарш из свинины СИБАГРО Любительский, категория В, 400г",
+        "sale_percent": 15,
+        "card_price": 143.19,
+        "regular_price": 168.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/farsh-sibagro-iz-svininy-lyubitelskijj-katv-gazsreda-ohl-rossiya-400g-551150/"
+    },
+    {
+        "title": "Антрекот из говядины бескостный, порционный, категория А, весовой",
+        "sale_percent": 15,
+        "card_price": 688.99,
+        "regular_price": 810.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/pf-govyadina-stejjk-antrekot-bk-porckata-ohl-ves-rossiya-173562/"
+    },
+    {
+        "title": "Мякоть говяжья МИРАТОРГ Black Angus, 500г",
+        "sale_percent": 15,
+        "card_price": 462.59,
+        "regular_price": 544.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/govyadina-miratorg-black-angus-myakot-ohl-rossiya-500g-573725/"
+    },
+    {
+        "title": "Шашлык из свиной шеи Премиум, бескостный, в майонезе, категория Б, весовой",
+        "sale_percent": 15,
+        "card_price": 483.19,
+        "regular_price": 568.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/pf-shashlyk-iz-svinojj-shei-bk-premium-v-majjoneze-katb-ohl-ves-rossiya-231179/"
+    },
+    {
+        "title": "Рулька свиная ЛЕНТА в маринаде, весовая",
+        "sale_percent": 15,
+        "card_price": 231.69,
+        "regular_price": 272.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/svinina-lenta-rulka-v-marinade-v-pakete-dzapekaniya-ves-rossiya-528998/"
+    }
+]

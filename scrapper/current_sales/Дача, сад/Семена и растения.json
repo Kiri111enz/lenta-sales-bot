@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Дренаж керамзитовый СКОРАЯ ПОМОЩЬ, 1л",
+        "sale_percent": 35,
+        "card_price": 19.99,
+        "regular_price": 30.59,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/drenazh-skoraya-pomoshch-keramzitovyjj-rossiya-1l-512223/"
+    },
+    {
+        "title": "Грунт для комнатных цветов СКОРАЯ ПОМОЩЬ с удобрением АВА, 2.5л",
+        "sale_percent": 43,
+        "card_price": 29.99,
+        "regular_price": 52.69,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/grunt-dcvetov-komnatnyh-skoraya-pomoshch-s-udobreniem-ava-rossiya-25l-503936/"
+    },
+    {
+        "title": "Горшок для цветов с поддоном 12х10,5х6см, прессованный бамбук, Арт. TG3106031",
+        "sale_percent": 46,
+        "card_price": 39.99,
+        "regular_price": 73.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-07-14 02:00:00",
+        "url": "https://lenta.com/product/gorshok-dlya-cvetov-s-poddonom-pressovannyjj-bambuk-12h105h6sm-tg3106031-kitajj-581777/"
+    },
+    {
+        "title": "Удобрение BONA FORTE Универсальное гранулированное, Арт. BF23010121, 1кг",
+        "sale_percent": 53,
+        "card_price": 99.0,
+        "regular_price": 210.59,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/udobrenie-bona-forte-universalnoe-suhoe-granulirovannoe-rossiya-1kg-196283/"
+    },
+    {
+        "title": "Удобрение органическое AVGUST Аминозол, ампула, 5мл",
+        "sale_percent": 53,
+        "card_price": 19.99,
+        "regular_price": 42.19,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/udobrenie-avgust-organicheskoe-aminozol-paket-ampula-5ml-rossiya-5-602579/"
+    },
+    {
+        "title": "Удобрение для комнатных растений AVA Агровитамины, 13,5г",
+        "sale_percent": 53,
+        "card_price": 69.99,
+        "regular_price": 147.39,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/udobrenie-prochie-tovary-agrovitaminy-dkomnatnyh-rastenijj-rossiya-135g-610863/"
+    },
+    {
+        "title": "Удобрение минеральное водорастворимое для томатов и перцев ФАСКО Малышок, с микроэлементами, 50г",
+        "sale_percent": 40,
+        "card_price": 69.99,
+        "regular_price": 115.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-12-07 02:00:00",
+        "url": "https://lenta.com/product/udobrenie-suhoe-fasko-malyshokmineralnoe-dtomatov-i-percev-vodorastv-rossiya-528598/"
+    },
+    {
+        "title": "Грунт для лимонов СКОРАЯ ПОМОЩЬ с удобрением АВА, 2.5л",
+        "sale_percent": 43,
+        "card_price": 29.99,
+        "regular_price": 52.69,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/grunt-dlimona-skoraya-pomoshch-s-udobreniem-ava-rossiya-25l-503933/"
+    },
+    {
+        "title": "Ящик для растений с поддоном МАРТИКА Фелиция 40см, цвета в ассортименте, Арт. С185Т/С185К/С185М",
+        "sale_percent": 49,
+        "card_price": 79.99,
+        "regular_price": 157.89,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/yashchik-dlya-rastenijj-martika-feliciya-cvet-v-assort-40sm-s-poddonom-s185ts185ks185m-rossiya-363506/"
+    },
+    {
+        "title": "Горшок для рассады MULTIDACHA 70х70х65мм v=180мл, квадратный черный, 5шт",
+        "sale_percent": 59,
+        "card_price": 12.99,
+        "regular_price": 31.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-03-01 02:00:00",
+        "url": "https://lenta.com/product/gorshok-dlya-rassady-multidacha-v180-ml-70h70h65mm-chern-rossiya-5sht-603596/"
+    },
+    {
+        "title": "Кассета для рассады MULTIDACHA 4 ячейки, 3шт",
+        "sale_percent": 49,
+        "card_price": 18.99,
+        "regular_price": 36.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-03-01 02:00:00",
+        "url": "https://lenta.com/product/kasseta-rassadnaya-multidacha-4-yachejjki-rossiya-3sht-603683/"
+    },
+    {
+        "title": "Грунт ТОРФЯНАЯ ПОЛЯНА Фикус, 5л",
+        "sale_percent": 48,
+        "card_price": 29.99,
+        "regular_price": 57.89,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/grunt-torfyanaya-polyana-fikus-rossiya-5l-606966/"
+    },
+    {
+        "title": "Грунт для цитрусовых ТОРФЯНАЯ ПОЛЯНА, 5л",
+        "sale_percent": 43,
+        "card_price": 29.99,
+        "regular_price": 52.29,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/grunt-torfyanaya-polyana-dlya-citrusovyh-rossiya-5l-563396/"
+    },
+    {
+        "title": "Средство для защиты растений от кротов ЭкстраФлор, 10г",
+        "sale_percent": 48,
+        "card_price": 29.99,
+        "regular_price": 57.89,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/sredstvo-zashchity-rastenijj-prochie-tovary-ekstraflor-ot-krotov-rossiya-10g-610876/"
+    },
+    {
+        "title": "Грунт ТОРФЯНАЯ ПОЛЯНА Фиалка, 5л",
+        "sale_percent": 51,
+        "card_price": 29.99,
+        "regular_price": 61.09,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/grunt-torfyanaya-polyana-fialka-rossiya-5l-607041/"
+    },
+    {
+        "title": "Грунт для роз СКОРАЯ ПОМОЩЬ с удобрением АВА, 5л",
+        "sale_percent": 53,
+        "card_price": 39.99,
+        "regular_price": 84.29,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/grunt-droz-skoraya-pomoshch-s-udobreniem-ava-rossiya-5l-504020/"
+    },
+    {
+        "title": "Кора сосны, 2л",
+        "sale_percent": 55,
+        "card_price": 39.99,
+        "regular_price": 89.49,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/kora-sosny-2-l-rossiya-261299/"
+    },
+    {
+        "title": "Горшки торфяные MULTIDACHA 80х80мм, 10шт",
+        "sale_percent": 46,
+        "card_price": 39.99,
+        "regular_price": 73.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-03-01 02:00:00",
+        "url": "https://lenta.com/product/gorshok-multidacha-torfyan-80h80mm-rossiya-10sht-602942/"
+    },
+    {
+        "title": "Горшочки торфяные круглые ГАЗОНСITY 80х80мм, Арт. 702010, 10шт",
+        "sale_percent": 34,
+        "card_price": 44.99,
+        "regular_price": 68.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-03-01 02:00:00",
+        "url": "https://lenta.com/product/gorshki-torfyanye-gazonsity-kruglye-80h80mm-702010-rossiya-10sht-602581/"
+    },
+    {
+        "title": "Кассета для рассады MULTIDACHA 280х131х60мм 10 ячеек v=100мл, 5шт",
+        "sale_percent": 52,
+        "card_price": 49.99,
+        "regular_price": 104.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-03-01 02:00:00",
+        "url": "https://lenta.com/product/kasseta-rassadnaya-multidacha-10-yacheek-v100ml-280h131h60mm-rossiya-5sht-603594/"
+    },
+    {
+        "title": "Торфяные таблетки MULTIDACHA d=27мм, 8шт",
+        "sale_percent": 53,
+        "card_price": 49.99,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2023-03-01 02:00:00",
+        "url": "https://lenta.com/product/tabletka-torfyanaya-multidacha-d27mm-rossiya-8sht-603108/"
+    },
+    {
+        "title": "Удобрение органоминеральное для рассады ФАСКО Крепыш, 250мл",
+        "sale_percent": 53,
+        "card_price": 59.9,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/udobrenie-zhidkoe-fasko-krepysh-organomineralnoe-dlya-rassady-rossiya-250ml-602475/"
+    },
+    {
+        "title": "Биогрунт для гибридных семян F1 ФАСКО Крепыш, 5л",
+        "sale_percent": 50,
+        "card_price": 69.0,
+        "regular_price": 136.89,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-08 02:00:00",
+        "url": "https://lenta.com/product/grunt-fasko-krepysh-drassady-gibridnyh-semyan-rossiya-5l-491638/"
+    },
+    {
+        "title": "Удобрение органоминеральное водорастворимое для рассады ФАСКО Крепыш, с гуматом калия, 50г",
+        "sale_percent": 40,
+        "card_price": 69.99,
+        "regular_price": 115.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 00:00:00",
+        "url": "https://lenta.com/product/udobrenie-suhoe-fasko-krepyshorganomineralnoe-drassady-vodorastvs-gumatom-kaliya-rossiya-528347/"
+    }
+]

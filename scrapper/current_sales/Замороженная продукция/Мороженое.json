@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Мороженое ЛЕНТА Пломбир шоколадный с шоколадной крошкой, без змж, 400г",
+        "sale_percent": 29,
+        "card_price": 199.99,
+        "regular_price": 281.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/morozhenoe-lenta-plombir-shokoladnyjj-s-shok-kroshkojj-rossiya-400g-220621/"
+    },
+    {
+        "title": "Мороженое ГРОСПИРОН Натур пломбир ванильный, без змж, пакет, 450г",
+        "sale_percent": 15,
+        "card_price": 134.09,
+        "regular_price": 157.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/morozhenoe-grospiron-natur-plombir-vanilnyjj-paket-rossiya-450g-277569/"
+    },
+    {
+        "title": "Мороженое ЭKZO Манго-малина молочное без змж, ведро, 520г",
+        "sale_percent": 43,
+        "card_price": 269.99,
+        "regular_price": 474.29,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/morozhenoe-ekzo-mango-malina-molochnoe-vedro-bez-zmzh-rossiya-520g-538375/"
+    },
+    {
+        "title": "Мороженое ЭKZO Арбуз, дыня молочное, без змж, ведро, 520г",
+        "sale_percent": 43,
+        "card_price": 269.99,
+        "regular_price": 474.29,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/morozhenoe-ekzo-arbuzdynya-molochnoe-vedro-rossiya-520g-501165/"
+    },
+    {
+        "title": "Мороженое SNICKERS Ice Cream, сливочное с пастой из арахиса и карамелью 8,5%, без змж, ведро, 340г",
+        "sale_percent": 29,
+        "card_price": 425.79,
+        "regular_price": 599.99,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/morozhenoe-snickers-s-pastojj-iz-arahisa-karamelyu-vedro-bez-zmzh-rossiya-340g-559081/"
+    },
+    {
+        "title": "Мороженое ЗОЛОТОЙ СТАНДАРТ Пломбир, без змж, вафельный стаканчик, 86г",
+        "sale_percent": 15,
+        "card_price": 66.09,
+        "regular_price": 77.79,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/morozhenoe-zolotojj-standart-plombir-naturalnyjj-vafstak-rossiya-86g-376707/"
+    },
+    {
+        "title": "Мороженое ЛЕНТА Пломбир фисташковый, без змж, 400г",
+        "sale_percent": 26,
+        "card_price": 239.99,
+        "regular_price": 326.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/morozhenoe-lenta-plombir-fistashkovyjj-s-fistashkami-rossiya-400g-220617/"
+    },
+    {
+        "title": "Мороженое ЛЕНТА Пломбир шоколадный в шоколадной глазури с орехами, без змж, эскимо, 80г",
+        "sale_percent": 15,
+        "card_price": 49.19,
+        "regular_price": 57.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/morozhenoe-lenta-eskimo-plombir-shokoladnyjj-v-shok-glazuri-s-orehami-rossiya-80g-239905/"
+    },
+    {
+        "title": "Мороженое ЛЕНТА Пломбир лесные ягоды, без змж, 400г",
+        "sale_percent": 29,
+        "card_price": 199.99,
+        "regular_price": 281.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/morozhenoe-lenta-plombir-s-lesnymi-yagodami-rossiya-400g-220619/"
+    },
+    {
+        "title": "Мороженое ЛЕНТА Пломбир крем-брюле, без змж, 400г",
+        "sale_percent": 29,
+        "card_price": 199.99,
+        "regular_price": 281.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/morozhenoe-lenta-plombir-krembryule-rossiya-400g-220623/"
+    },
+    {
+        "title": "Мороженое DIONE Сицилийская фисташка, пломбир 12%, без змж, ведро, 500мл",
+        "sale_percent": 34,
+        "card_price": 271.99,
+        "regular_price": 410.59,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/morozhenoe-dione-plombir-sicilijjskaya-fistashka-bez-zmzh-litva-500ml-541093/"
+    },
+    {
+        "title": "Мороженое ЭKZO Драгонфрут-гуанабана, с кусочками ната де коко (кокосовый мармелад) 2%, без змж, ведро, 520г",
+        "sale_percent": 42,
+        "card_price": 274.99,
+        "regular_price": 474.29,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/morozhenoe-ekzo-sok-karamnata-de-kokodragonf-ekzo-dragonfrut-guana-bez-zmzh-rossiya-520g-575965/"
+    },
+    {
+        "title": "Мороженое BASKIN ROBBINS Пралине, сливочное ванильное с орехами пекан в пралине и прослойкой сливочной карамели, без змж, 1000мл",
+        "sale_percent": 29,
+        "card_price": 463.99,
+        "regular_price": 654.69,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/morozhenoe-baskin-robbins-praline-rossiya-1000ml-291585/"
+    },
+    {
+        "title": "Мороженое ГРОСПИРОН Натур пломбир шоколадный, без змж, бумажная коробочка, 240г",
+        "sale_percent": 15,
+        "card_price": 89.39,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-11-06 02:00:00",
+        "url": "https://lenta.com/product/morozhenoe-grospiron-natur-plombir-shokoladnyjj-bumkor-rossiya-240g-277541/"
+    },
+    {
+        "title": "Мороженое ЗОЛОТОЙ СТАНДАРТ Пломбир с таежной черникой, без змж, вафельный стаканчик, 89г",
+        "sale_percent": 15,
+        "card_price": 66.09,
+        "regular_price": 77.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/morozhenoe-zolotojj-standart-plombir-chernika-vafelnyjj-stakan-rossiya-89g-403585/"
+    },
+    {
+        "title": "Мороженое ГРОСПИРОН Пломбир на сливках ванильный, без змж, бумажное ведро, 430г",
+        "sale_percent": 34,
+        "card_price": 169.99,
+        "regular_price": 255.69,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/morozhenoe-grospiron-plombir-na-slivkah-vanilnyjj-bumvedro-rossiya-430g-277572/"
+    },
+    {
+        "title": "Мороженое ЗОЛОТОЙ СТАНДАРТ Пломбир с суфле и шоколадным наполнителем, без змж, контейнер, 475г",
+        "sale_percent": 36,
+        "card_price": 246.99,
+        "regular_price": 386.99,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/morozhenoe-zolotojj-standart-100-naturalnyjj-plombir-sufle-v-shokolade-kontejjner-rossiya-475g-367040/"
+    },
+    {
+        "title": "Мороженое ЗОЛОТОЙ СТАНДАРТ Пломбир клубника, без змж, вафельный стаканчик, 85г",
+        "sale_percent": 15,
+        "card_price": 66.09,
+        "regular_price": 77.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/morozhenoe-zolotojj-standart-novyjj-plombir-klubnika-vafst-rossiya-85g-507420/"
+    },
+    {
+        "title": "Мороженое ГРОСПИРОН Натур пломбир ванильный, без змж, вафельный стаканчик, 90г",
+        "sale_percent": 15,
+        "card_price": 39.39,
+        "regular_price": 46.39,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-11-06 02:00:00",
+        "url": "https://lenta.com/product/morozhenoe-grospiron-natur-plombir-vanilnyjj-vafstak-rossiya-90g-277546/"
+    },
+    {
+        "title": "Мороженое ГРОСПИРОН Натур пломбир шоколадный, без змж, вафельный стаканчик, 90г",
+        "sale_percent": 15,
+        "card_price": 37.99,
+        "regular_price": 44.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/morozhenoe-grospiron-natur-plombir-shokoladnyjj-vafstak-rossiya-90g-277568/"
+    },
+    {
+        "title": "Мороженое ЗОЛОТОЙ СТАНДАРТ Пломбир со вкусом фисташки, без змж, вафельный стаканчик, 86г",
+        "sale_percent": 15,
+        "card_price": 69.29,
+        "regular_price": 81.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/morozhenoe-zolotojj-standart-novyjj-plombir-fistashka-v-vafst-rossiya-86g-480720/"
+    },
+    {
+        "title": "Мороженое ГРОСПИРОН Кедровый пломбир, без змж, ведро, 410г",
+        "sale_percent": 56,
+        "card_price": 169.99,
+        "regular_price": 386.29,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/morozhenoe-grospiron-kedrovyjj-plombir-vedro-rossiya-410g-445526/"
+    },
+    {
+        "title": "Мороженое ГРОСПИРОН Натур пломбир шоколадный, без змж, 450г",
+        "sale_percent": 15,
+        "card_price": 188.59,
+        "regular_price": 221.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/morozhenoe-grospiron-natur-plombir-shokoladnyjj-rossiya-450g-505694/"
+    },
+    {
+        "title": "Мороженое ЗОЛОТОЙ СТАНДАРТ Пломбир шоколадный, без змж, вафельный стаканчик, 86г",
+        "sale_percent": 15,
+        "card_price": 66.09,
+        "regular_price": 77.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/morozhenoe-zolotojj-standart-plombir-shokoladnyjj-vafstak-rossiya-86g-439642/"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Полоски для носа CETTUA очищающие, 6шт",
+        "sale_percent": 9,
+        "card_price": 285.39,
+        "regular_price": 313.69,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-05 00:00:00",
+        "url": "https://lenta.com/product/poloski-ochishchayushchie-cettua-dnosa-koreya-6sht-353619/"
+    },
+    {
+        "title": "Скраб для лица ЧИСТАЯ ЛИНИЯ очищающий с экстрактом ромашки и абрикосовыми косточками, 50мл",
+        "sale_percent": 14,
+        "card_price": 109.99,
+        "regular_price": 127.39,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-10 02:00:00",
+        "url": "https://lenta.com/product/skrab-chistaya-liniya-s-ekstrromashki-i-abrikosovymi-kostochkami-ochishch-rossiya-50ml-179605/"
+    },
+    {
+        "title": "Тоник для лица NIVEA Нежный смягчающий, 200мл",
+        "sale_percent": 18,
+        "card_price": 229.99,
+        "regular_price": 282.19,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-10 00:00:00",
+        "url": "https://lenta.com/product/tonik-dlya-lica-nivea-nezhnyjj-smyagchayushchijj-germaniya-200ml-315690/"
+    },
+    {
+        "title": "Бальзам для губ NIVEA Sos-уход, 4,8г",
+        "sale_percent": 33,
+        "card_price": 129.99,
+        "regular_price": 194.79,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-10 00:00:00",
+        "url": "https://lenta.com/product/balzam-dlya-gub-nivea-sosuhod-germaniya-48g-204476/"
+    },
+    {
+        "title": "Гель для умывания NIVEA Матовое совершенство очищающий, для жирной и склонной к жирности кожи, 150мл",
+        "sale_percent": 18,
+        "card_price": 209.99,
+        "regular_price": 256.89,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-10 00:00:00",
+        "url": "https://lenta.com/product/gel-dlya-umyvaniya-nivea-matovoe-sovershenstvo-ochishchdzhiri-sklk-zhirkozhi-franciya-150ml-227706/"
+    },
+    {
+        "title": "Мусс для умывания NIVEA для сухой и чувствительной кожи, 150мл",
+        "sale_percent": 36,
+        "card_price": 279.99,
+        "regular_price": 436.79,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-10 00:00:00",
+        "url": "https://lenta.com/product/muss-dlya-umyvaniya-nivea-germaniya-150ml-308436/"
+    },
+    {
+        "title": "Пенка-мусс для умывания ЧЕРНЫЙ ЖЕМЧУГ Деликатное очищение, для сухой кожи, 150мл",
+        "sale_percent": 15,
+        "card_price": 295.19,
+        "regular_price": 347.39,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-03 00:00:00",
+        "url": "https://lenta.com/product/penkamuss-chernyjj-zhemchug-dumyvaniya-rossiya-150ml-364748/"
+    },
+    {
+        "title": "Помада гигиеническая для губ EVO Пантенол, 2,8г",
+        "sale_percent": 15,
+        "card_price": 48.29,
+        "regular_price": 56.89,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/pomada-dlya-gub-evo-pantenol-gigienicheskaya-rossiya-3g-396708/"
+    },
+    {
+        "title": "Маска для лица VILENTA Бодрый понедельник с ивой и какао-бобами, 28мл",
+        "sale_percent": 28,
+        "card_price": 65.99,
+        "regular_price": 91.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/maska-dlya-lica-vilenta-7-days-s-ivojj-i-kakao-bobami-kitajj-28ml-486750/"
+    },
+    {
+        "title": "Крем для лица и тела ЧИСТАЯ ЛИНИЯ Питание и увлажнение, 50мл",
+        "sale_percent": 15,
+        "card_price": 135.89,
+        "regular_price": 159.89,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-11-06 02:00:00",
+        "url": "https://lenta.com/product/krem-chistaya-liniya-pit-i-uvldlica-i-tela-rossiya-50ml-212676/"
+    },
+    {
+        "title": "Вода мицеллярная GARNIER Розовая Очищение+Сияние, для тусклой и чувствительной кожи, 700мл",
+        "sale_percent": 22,
+        "card_price": 489.99,
+        "regular_price": 631.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-05 00:00:00",
+        "url": "https://lenta.com/product/voda-micellyarnaya-garnier-rozovaya-polsha-700ml-584450/"
+    },
+    {
+        "title": "Крем для лица NIVEA Make Up Expert для сухой и чувствительной кожи, 50мл",
+        "sale_percent": 39,
+        "card_price": 269.99,
+        "regular_price": 439.99,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-10 00:00:00",
+        "url": "https://lenta.com/product/krem-nivea-makeup-expert-dsuhojjchuvstv-kozhi-polsha-360136/"
+    },
+    {
+        "title": "Маска тканевая для лица GARNIER Увлажнение + Аква Бомба c гиалуроновой, П-Анисовой кислотами, экстрактом граната, 32г",
+        "sale_percent": 15,
+        "card_price": 192.39,
+        "regular_price": 226.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-05 00:00:00",
+        "url": "https://lenta.com/product/maska-dlya-lica-garnier-akva-bomba-tkanevaya-uvl-kanada-42g-379661/"
+    },
+    {
+        "title": "Маска для лица ЧЕРНЫЙ ЖЕМЧУГ Гиалурон-филлер эффект",
+        "sale_percent": 15,
+        "card_price": 160.99,
+        "regular_price": 189.49,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-03 00:00:00",
+        "url": "https://lenta.com/product/maska-dlya-lica-chernyjj-zhemchug-gialuron-filler-effekt-rossiya-1sht-591279/"
+    },
+    {
+        "title": "Гель для умывания ЧИСТАЯ ЛИНИЯ Идеальная кожа Нежное очищение, 160мл",
+        "sale_percent": 21,
+        "card_price": 189.99,
+        "regular_price": 239.89,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-10 00:00:00",
+        "url": "https://lenta.com/product/gel-dlya-umyvaniya-chistaya-liniya-idealnaya-kozha-rossiya-160ml-445027/"
+    },
+    {
+        "title": "Гель для умывания GARNIER Чистая кожа Актив с салициловой кислотой против прыщей с щеткой Эксфопро, 150мл",
+        "sale_percent": 32,
+        "card_price": 429.99,
+        "regular_price": 631.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-15 00:00:00",
+        "url": "https://lenta.com/product/sredstvo-kosmeticheskoe-garnier-chistaya-kozha-aktiv-eksfopro-otshelushdkozhi-lica-germaniya-150ml-193233/"
+    },
+    {
+        "title": "Вода мицеллярная для лица L'OREAL для сухой и чувствительной кожи, 200мл",
+        "sale_percent": 23,
+        "card_price": 299.99,
+        "regular_price": 389.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-08 00:00:00",
+        "url": "https://lenta.com/product/voda-micellyarnaya-loreal-absolyut-nezhnost-dsuhchuvstkozh-germaniya-200ml-262422/"
+    },
+    {
+        "title": "Маска для лица PROFESSOR SKINGOOD Морское СПА увлажняющая, 7шт",
+        "sale_percent": 50,
+        "card_price": 251.99,
+        "regular_price": 503.19,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/maska-dlya-lica-professor-skingood-morskoe-spa-uvlazh-koreya-7sht-587470/"
+    },
+    {
+        "title": "Пенка для умывания INO Зеленая глина и центелла, для чувствительной кожи, 100мл",
+        "sale_percent": 30,
+        "card_price": 242.99,
+        "regular_price": 347.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 00:00:00",
+        "url": "https://lenta.com/product/penka-dumyvaniya-ino-zelenaya-glina-i-centella-koreya-100ml-607091/"
+    },
+    {
+        "title": "Гель-скраб-маска для лица ЧИСТАЯ ЛИНИЯ Идеальная кожа 5в1, 120мл",
+        "sale_percent": 19,
+        "card_price": 169.99,
+        "regular_price": 210.59,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-10 00:00:00",
+        "url": "https://lenta.com/product/sredstvo-kosmeticheskoe-chistaya-liniya-5v1-idealnaya-kozha-rossiya-120ml-445078/"
+    },
+    {
+        "title": "Скраб для лица GARNIER Чистая кожа Актив с абсорбирующим углем и салициловой кислотой против прыщей и черных точек, 150мл",
+        "sale_percent": 32,
+        "card_price": 359.99,
+        "regular_price": 526.39,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-03 00:00:00",
+        "url": "https://lenta.com/product/skrab-dlya-lica-garnier-chistaya-kozha-otshelush-s-uglem-franciya-150ml-315479/"
+    },
+    {
+        "title": "Крем-гель дневной для лица GARNIER Skin Naturals Гиалуроновый Алоэ-гель, для нормальной и смешанной кожи, 50мл",
+        "sale_percent": 28,
+        "card_price": 329.99,
+        "regular_price": 460.99,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-17 00:00:00",
+        "url": "https://lenta.com/product/kremgel-garnier-skin-naturals-gialuronovyjj-aloe-dn-uvlazh-germaniya-50ml-508875/"
+    },
+    {
+        "title": "Гель мицеллярный для умывания GARNIER для всех типов кожи, 200мл",
+        "sale_percent": 15,
+        "card_price": 357.89,
+        "regular_price": 421.09,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-11-06 02:00:00",
+        "url": "https://lenta.com/product/gel-micellyarnyjj-garnier-polsha-200ml-428302/"
+    },
+    {
+        "title": "Вода мицеллярная для лица NIVEA MicellAIR Дыхание кожи, для сухой и чувствительной кожи, 400мл",
+        "sale_percent": 16,
+        "card_price": 279.99,
+        "regular_price": 334.79,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-10 00:00:00",
+        "url": "https://lenta.com/product/voda-micellyarnaya-nivea-micellair-dyhanie-kozhi-dsuhchuvst-kozhi-germaniya-400ml-389160/"
+    }
+]

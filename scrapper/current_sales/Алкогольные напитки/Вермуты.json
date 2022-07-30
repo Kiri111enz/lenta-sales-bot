@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Ликер APERONO APERITIVO десертный, 0.75л",
+        "sale_percent": 29,
+        "card_price": 299.0,
+        "regular_price": 421.09,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/543594-rossiya-543594/"
+    },
+    {
+        "title": "Напиток виноградосодержащий CALDIROLA Вермут Бьянко белое сладкое, 1л",
+        "sale_percent": 14,
+        "card_price": 499.99,
+        "regular_price": 578.99,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-03 00:00:00",
+        "url": "https://lenta.com/product/napitok-vinnyjj-caldirola-vermut-kaldirola-byanko-italiya-1l-125945/"
+    },
+    {
+        "title": "Напиток ароматизированный MARTINI Extra Dry белый экстра сухой, 0.5л",
+        "sale_percent": 24,
+        "card_price": 599.0,
+        "regular_price": 789.49,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/vermut-martini-extra-dry-ekstra-bel-suh-italiya-05l-043235/"
+    },
+    {
+        "title": "Напиток ароматизированный MARTINI Bianco белый сладкий, 0.5л",
+        "sale_percent": 24,
+        "card_price": 599.0,
+        "regular_price": 789.49,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/vermut-martini-bianco-beloe-slstbez-st-italiya-05l-006868/"
+    },
+    {
+        "title": "Напиток ароматизированный MARTINI Fiero сладкий, 0.5л",
+        "sale_percent": 24,
+        "card_price": 599.0,
+        "regular_price": 789.49,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/napitok-vinnyjj-martini-fiero-sl-italiya-05l-536237/"
+    },
+    {
+        "title": "Напиток ароматизированный MARTINI Rosso красный сладкий, 0.5л",
+        "sale_percent": 24,
+        "card_price": 599.0,
+        "regular_price": 789.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/vermut-martini-rosso-kr-sl-italiya-05l-043236/"
+    },
+    {
+        "title": "Напиток ароматизированный GANCIA Вермут Bianco белый сладкий, 1л",
+        "sale_percent": 24,
+        "card_price": 799.0,
+        "regular_price": 1052.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/vermut-gancia-byanko-bel-sl-italiya-1l-022304/"
+    },
+    {
+        "title": "Напиток спиртной аперитив APEROL, 0.7л",
+        "sale_percent": 27,
+        "card_price": 1299.0,
+        "regular_price": 1789.49,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/napitok-aperol-aperol-desertnyjj-italiya-07l-246509/"
+    },
+    {
+        "title": "Ликер десертный аперитив CAMPARI + Напиток FRANKLIN SONS Natural Indian 3x0.15л, 0.75л",
+        "sale_percent": 40,
+        "card_price": 1399.0,
+        "regular_price": 2315.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/liker-desertnyjj-aperitiv-campari--napba-franklin-sons-naturindian-3015l-italiya-velikobritaniya-075-635847/"
+    }
+]

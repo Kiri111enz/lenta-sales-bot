@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Книга ЭКСМО Pocket book, в ассортименте",
+        "sale_percent": 37,
+        "card_price": 199.0,
+        "regular_price": 314.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-29 02:00:00",
+        "url": "https://lenta.com/product/kniga-eksmo-pocket-book-v-assort-rossiya-633392/"
+    },
+    {
+        "title": "Справочник ЭКСМО История Арт. 978-5-04-093042-5",
+        "sale_percent": 29,
+        "card_price": 299.0,
+        "regular_price": 420.09,
+        "sale_start": "2022-07-25 02:00:00",
+        "sale_end": "2022-09-07 02:00:00",
+        "url": "https://lenta.com/product/spravochnik-eksmo-istoriya-978-5-04-093042-5-rossiya-571148/"
+    },
+    {
+        "title": "Справочник ЭКСМО Обществознание Арт. 978-5-04-093046-3",
+        "sale_percent": 29,
+        "card_price": 299.0,
+        "regular_price": 420.09,
+        "sale_start": "2022-07-25 02:00:00",
+        "sale_end": "2022-09-07 02:00:00",
+        "url": "https://lenta.com/product/spravochnik-eksmo-obshchestvoznanie-978-5-04-093046-3-rossiya-571159/"
+    },
+    {
+        "title": "Справочник ЭКСМО Физика Арт. 978-5-04-093006-7",
+        "sale_percent": 29,
+        "card_price": 299.0,
+        "regular_price": 420.09,
+        "sale_start": "2022-07-25 02:00:00",
+        "sale_end": "2022-09-07 02:00:00",
+        "url": "https://lenta.com/product/spravochnik-eksmo-fizika-978-5-04-093006-7-rossiya-570957/"
+    },
+    {
+        "title": "Справочник ЭКСМО Химия Арт. 978-5-04-093008-1",
+        "sale_percent": 29,
+        "card_price": 299.0,
+        "regular_price": 420.09,
+        "sale_start": "2022-07-25 02:00:00",
+        "sale_end": "2022-09-07 02:00:00",
+        "url": "https://lenta.com/product/spravochnik-eksmo-himiya-978-5-04-093008-1-rossiya-570966/"
+    },
+    {
+        "title": "Справочник ЭКСМО Биология Арт. 978-5-04-093040-1",
+        "sale_percent": 29,
+        "card_price": 299.0,
+        "regular_price": 420.09,
+        "sale_start": "2022-07-25 02:00:00",
+        "sale_end": "2022-09-07 02:00:00",
+        "url": "https://lenta.com/product/spravochnik-eksmo-biologiya-978-5-04-093040-1-rossiya-571114/"
+    },
+    {
+        "title": "Справочник ЭКСМО Русский язык Арт. 978-5-04-093041-8",
+        "sale_percent": 29,
+        "card_price": 299.0,
+        "regular_price": 420.09,
+        "sale_start": "2022-07-25 02:00:00",
+        "sale_end": "2022-09-07 02:00:00",
+        "url": "https://lenta.com/product/spravochnik-eksmo-russkijj-yazyk-978-5-04-093041-8-rossiya-571116/"
+    },
+    {
+        "title": "Книга ЭКСМО География, 320 страниц",
+        "sale_percent": 29,
+        "card_price": 299.0,
+        "regular_price": 420.09,
+        "sale_start": "2022-07-25 02:00:00",
+        "sale_end": "2022-09-07 02:00:00",
+        "url": "https://lenta.com/product/kniga-eksmo-geografiya-320str-978-5-04-093044-9-rossiya-636404/"
+    }
+]

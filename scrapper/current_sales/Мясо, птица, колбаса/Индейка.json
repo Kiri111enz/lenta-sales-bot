@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Филе грудки индейки, 1кг",
+        "sale_percent": 24,
+        "card_price": 402.99,
+        "regular_price": 529.39,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/indejjka-file-s-grudki-ohl-ves-rossiya-1kg-103008/"
+    },
+    {
+        "title": "Филе бедра индейки, 1кг",
+        "sale_percent": 24,
+        "card_price": 391.99,
+        "regular_price": 515.79,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/indejjka-file-s-bedra-ohl-ves-rossiya-1kg-103007/"
+    },
+    {
+        "title": "Шашлык из филе грудки индейки с томатами и прованскими травами, весовой",
+        "sale_percent": 24,
+        "card_price": 359.99,
+        "regular_price": 473.69,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/pf-shashlyk-file-grudki-indejjki-s-tomatprovans-trav-ohl-ves-rossiya-534955/"
+    },
+    {
+        "title": "Шашлык из филе бедра индейки в маринаде медово–горчичном, весовой",
+        "sale_percent": 24,
+        "card_price": 415.99,
+        "regular_price": 547.39,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/pf-shashlyk-iz-file-bedra-indejjki-v-marin-medovogorchich-ves-rossiya-540362/"
+    },
+    {
+        "title": "Колбаски из индейки, весовые",
+        "sale_percent": 28,
+        "card_price": 369.99,
+        "regular_price": 515.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/pf-kolbaski-iz-indejjki-ohl-ves-rossiya-372732/"
+    }
+]

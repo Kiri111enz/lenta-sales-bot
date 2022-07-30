@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Фисташки ЛЕНТА жареные подсоленные, 200г",
+        "sale_percent": 20,
+        "card_price": 337.99,
+        "regular_price": 421.09,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/fistashki-lenta-zharenye-podsolennye-rossiya-200g-136337/"
+    },
+    {
+        "title": "Грецкий орех BONVIDA, 500г",
+        "sale_percent": 30,
+        "card_price": 439.99,
+        "regular_price": 631.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/greckijj-oreh-bonvida-kitajj-500g-520163/"
+    },
+    {
+        "title": "Фисташки BONVIDA жареные соленые, 500г",
+        "sale_percent": 25,
+        "card_price": 789.99,
+        "regular_price": 1052.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/fistashki-bonvida-zharenye-solenye-rossiya-500g-519436/"
+    },
+    {
+        "title": "Миндаль ЛЕНТА жареный, 200г",
+        "sale_percent": 20,
+        "card_price": 252.99,
+        "regular_price": 315.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/mindal-lenta-zharenyjj-rossiya-200g-354086/"
+    },
+    {
+        "title": "Арахис ЛЕНТА жареный, 200г",
+        "sale_percent": 20,
+        "card_price": 96.99,
+        "regular_price": 121.09,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/arahis-lenta-zharenyjj-bez-soli-rossiya-200g-524564/"
+    },
+    {
+        "title": "Семечки ОТ МАРТИНА с морской солью, 200г",
+        "sale_percent": 37,
+        "card_price": 79.9,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/semechki-ot-martina-s-morskojj-solyu-rossiya-200g-349720/"
+    },
+    {
+        "title": "Арахис ЛЕНТА жареный подсоленный, 200г",
+        "sale_percent": 20,
+        "card_price": 96.99,
+        "regular_price": 121.09,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/arahis-lenta-zharenyjj-podsolennyjj-rossiya-200g-136336/"
+    },
+    {
+        "title": "Фундук ЛЕНТА жареный, 200г",
+        "sale_percent": 20,
+        "card_price": 252.99,
+        "regular_price": 315.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/funduk-lenta-zharenyjj-rossiya-200g-354085/"
+    },
+    {
+        "title": "Орех грецкий ЛЕНТА очищенный, 200г",
+        "sale_percent": 20,
+        "card_price": 286.99,
+        "regular_price": 357.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/oreh-greckijj-lenta-ochishchennyjj-rossiya-200g-354168/"
+    },
+    {
+        "title": "Фундук BONVIDA жареный, 500г",
+        "sale_percent": 31,
+        "card_price": 489.99,
+        "regular_price": 705.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/funduk-bonvida-zharenyjj-rossiya-500g-522472/"
+    },
+    {
+        "title": "Арахис DOLCE ALBERO подсоленный жареный, 200г",
+        "sale_percent": 25,
+        "card_price": 109.99,
+        "regular_price": 147.39,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-11 02:00:00",
+        "url": "https://lenta.com/product/arahis-dolce-albero-podsolennyjj-zharenyjj-rossiya-200g-448705/"
+    },
+    {
+        "title": "Чернослив DOLCE ALBERO без косточки, 200г",
+        "sale_percent": 20,
+        "card_price": 184.99,
+        "regular_price": 231.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/chernosliv-dolce-albero-bez-kostochki-rossiya-200g-448711/"
+    },
+    {
+        "title": "Изюм BONVIDA темный, 500г",
+        "sale_percent": 29,
+        "card_price": 119.99,
+        "regular_price": 168.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/izyum-temnyjj-bonvida-uzbekistan-500g-519100/"
+    },
+    {
+        "title": "Кешью ЛЕНТА ЕСО натуральный, 200г",
+        "sale_percent": 22,
+        "card_price": 329.99,
+        "regular_price": 421.09,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-11 02:00:00",
+        "url": "https://lenta.com/product/keshyu-lenta-eso-naturalnyjj-vetnam-200g-569437/"
+    },
+    {
+        "title": "Цукаты BONVIDA, 500г",
+        "sale_percent": 22,
+        "card_price": 269.99,
+        "regular_price": 347.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/smes-bonvida-iz-cukatov-assorti-tailand-500g-520621/"
+    },
+    {
+        "title": "Миндаль ЛЕНТА ЕСО натуральный, 200г",
+        "sale_percent": 33,
+        "card_price": 239.99,
+        "regular_price": 357.89,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-11 02:00:00",
+        "url": "https://lenta.com/product/mindal-lenta-eso-naturalnyjj-chili-200g-569550/"
+    },
+    {
+        "title": "Семечки подсолнечника ДЖИНН жареные, 140г",
+        "sale_percent": 34,
+        "card_price": 69.99,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/semechki-podsolnechnika-dzhinn-zharenye-rossiya-140g-429452/"
+    },
+    {
+        "title": "Семечки подсолнечника ЛЕНТА жареные, 300г",
+        "sale_percent": 13,
+        "card_price": 63.99,
+        "regular_price": 73.69,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-11 02:00:00",
+        "url": "https://lenta.com/product/semechki-podsolnechnika-lenta-zharenye-rossiya-300g-499726/"
+    },
+    {
+        "title": "Семечки подсолнечника ЛЕНТА отборные жареные с морской солью, 300г",
+        "sale_percent": 13,
+        "card_price": 63.99,
+        "regular_price": 73.69,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-11 02:00:00",
+        "url": "https://lenta.com/product/semechki-podsolnechnika-lenta-zharenye-s-morskojj-solyu-otbornye-rossiya-300g-499416/"
+    },
+    {
+        "title": "Смесь фруктово-ореховая DOLCE ALBERO Energy Mix, 120г",
+        "sale_percent": 19,
+        "card_price": 169.99,
+        "regular_price": 210.59,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-11 02:00:00",
+        "url": "https://lenta.com/product/fruktovoyagodnaya-smes-dolce-albero-s-orehami-energy-mix-40-rossiya-120g-516204/"
+    },
+    {
+        "title": "Семена подсолнечника BONVIDA очищенные, 500г",
+        "sale_percent": 34,
+        "card_price": 139.99,
+        "regular_price": 210.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/semena-podsolnechnika-bonvida-ochishchennye-rossiya-500g-494365/"
+    },
+    {
+        "title": "Смесь ДАРЫ ПРИРОДЫ компотная, 500г",
+        "sale_percent": 24,
+        "card_price": 199.99,
+        "regular_price": 263.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/smes-kompotnaya-dary-prirody-kompotnaya-rossiya-500g-463983/"
+    },
+    {
+        "title": "Курага DOLCE ALBERO без косточки, 200г",
+        "sale_percent": 20,
+        "card_price": 251.99,
+        "regular_price": 315.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/kuraga-dolce-albero-bez-kostochki-rossiya-200g-448710/"
+    },
+    {
+        "title": "Курага BONVIDA 500г",
+        "sale_percent": 24,
+        "card_price": 399.99,
+        "regular_price": 526.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/kuraga-bonvida-rossiya-500g-519492/"
+    }
+]

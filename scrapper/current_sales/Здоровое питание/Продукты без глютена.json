@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Хлебцы рисово-кукурузный DR KORNER Карамельные, 90г",
+        "sale_percent": 35,
+        "card_price": 54.99,
+        "regular_price": 84.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/hlebcy-dr-korner-kukuruznorisovye-karamelnye-rossiya-90g-427302/"
+    },
+    {
+        "title": "Макароны безглютеновые BARILLA Penne Rigate Gluten Free, 400г",
+        "sale_percent": 22,
+        "card_price": 226.99,
+        "regular_price": 290.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/izdeliya-makaronnye-barilla-penne-rigate-gluten-free-italiya-400g-470057/"
+    },
+    {
+        "title": "Макароны безглютеновые BARILLA Fusilli Gluten Free, 400г",
+        "sale_percent": 22,
+        "card_price": 226.99,
+        "regular_price": 290.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/izdeliya-makaronnye-barilla-fusilli-gluten-free-italiya-400g-470055/"
+    },
+    {
+        "title": "Мука кукурузная MAKFA, 500г",
+        "sale_percent": 20,
+        "card_price": 58.99,
+        "regular_price": 73.69,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-12 02:00:00",
+        "url": "https://lenta.com/product/608759-rossiya-608759/"
+    },
+    {
+        "title": "Макароны безглютеновые FEDERICI Спагетти, 400г",
+        "sale_percent": 41,
+        "card_price": 124.99,
+        "regular_price": 211.79,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-09-30 02:00:00",
+        "url": "https://lenta.com/product/izdeliya-makaronnye-federici-spagetti-bglyutena-italiya-400g-493804/"
+    },
+    {
+        "title": "Мука рисовая MAKFA, 500г",
+        "sale_percent": 20,
+        "card_price": 79.99,
+        "regular_price": 99.49,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-12 02:00:00",
+        "url": "https://lenta.com/product/608763-rossiya-608763/"
+    },
+    {
+        "title": "Макароны BARILLA Legume Penne из чечевичной муки, 250г",
+        "sale_percent": 34,
+        "card_price": 299.99,
+        "regular_price": 452.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/izdeliya-makaronnye-barilla-legume-penne-iz-chechevichnojj-muki-italiya-250g-522543/"
+    },
+    {
+        "title": "Макароны безглютеновые ЛЕНТА ECO Спиральки, из гречневой муки, 250г",
+        "sale_percent": 32,
+        "card_price": 99.99,
+        "regular_price": 147.39,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/izdeliya-makaronnye-lenta-eco-bezglyutenovye-iz-grechnevojj-muki-s-dobavleniem-amarantovojj-mu-rossi-554298/"
+    },
+    {
+        "title": "Мука безглютеновая GARNEC Кукурузная, 500г",
+        "sale_percent": 28,
+        "card_price": 79.99,
+        "regular_price": 110.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/muka-garnec-kukuruznaya-bez-glyutena-rossiya-500g-508366/"
+    },
+    {
+        "title": "Макароны безглютеновые ЛЕНТА ECO Рожки, из амарантовой муки, 250г",
+        "sale_percent": 21,
+        "card_price": 99.99,
+        "regular_price": 126.39,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/izdeliya-makaronnye-lenta-eco-bezglyutenovye-iz-amarantovojj-muki-rozhki-rossiya-250g-554107/"
+    },
+    {
+        "title": "Мука овсяная MAKFA, 500г",
+        "sale_percent": 19,
+        "card_price": 67.99,
+        "regular_price": 84.29,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-12 02:00:00",
+        "url": "https://lenta.com/product/608761-rossiya-608761/"
+    },
+    {
+        "title": "Смесь мучная безглютеновая ЛЕНТА ECO Универсальная, 500г",
+        "sale_percent": 18,
+        "card_price": 129.99,
+        "regular_price": 157.89,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/smes-muchnaya-lenta-eco-universalnaya-bglyutena-rossiya-500g-566961/"
+    },
+    {
+        "title": "Хлебцы рисово-кукурузные DR KORNER с имбирем и лимоном, 90г",
+        "sale_percent": 29,
+        "card_price": 66.99,
+        "regular_price": 94.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/hlebcy-dr-korner-kukuruznorisovye-s-imbirem-i-limonom-rossiya-90g-369715/"
+    },
+    {
+        "title": "Хлебцы рисовые безглютеновые ЛЕНТА ECO сладкие  со вкусом малины, 80г",
+        "sale_percent": 25,
+        "card_price": 54.99,
+        "regular_price": 73.69,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/hlebcy-lenta-eco-sladkie-risovye-bezglyutenovye-so-vkusom-maliny-rossiya-80g-593442/"
+    },
+    {
+        "title": "Хлебцы рисовые безглютеновые ЛЕНТА ECO сладкие со вкусом яблоко с корицей, 80г",
+        "sale_percent": 25,
+        "card_price": 54.99,
+        "regular_price": 73.69,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/hlebcy-lenta-eco-sladkie-risovye-bezglyutenovye-so-vkusom-yabloka-s-koricejj-rossiya-80g-593443/"
+    },
+    {
+        "title": "Мука льняная КОНОПЛЯНКА, 300г",
+        "sale_percent": 48,
+        "card_price": 59.99,
+        "regular_price": 115.79,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/muka-konoplyanka-lnyanaya-dpak-rossiya-300g-523904/"
+    },
+    {
+        "title": "Хлебные мини-палочки MIKIO с сырами Гравьера и Фета, 90г",
+        "sale_percent": 34,
+        "card_price": 69.99,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-11 02:00:00",
+        "url": "https://lenta.com/product/hlebnye-mini-palochki-mikio-s-syrami-gravera-i-feta-greciya-90g-577557/"
+    },
+    {
+        "title": "Хлебные мини-палочки MIKIO с оливковым маслом и зеленью, 90г",
+        "sale_percent": 34,
+        "card_price": 69.99,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-11 02:00:00",
+        "url": "https://lenta.com/product/hlebnye-mini-palochki-mikio-s-olivkovym-maslom-i-zelenyu-greciya-90g-577881/"
+    },
+    {
+        "title": "Хлебные мини-палочки MIKIO с вялеными томатами и оливками, 90г",
+        "sale_percent": 34,
+        "card_price": 69.99,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-11 02:00:00",
+        "url": "https://lenta.com/product/hlebnye-mini-palochki-mikio-s-vyalenymi-tomatami-i-olivkami-greciya-90g-577869/"
+    },
+    {
+        "title": "Хлебные мини-палочки MIKIO с оливковым маслом и орегано, 90г",
+        "sale_percent": 34,
+        "card_price": 69.99,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-11 02:00:00",
+        "url": "https://lenta.com/product/hlebnye-mini-palochki-mikio-s-olivkovym-maslom-i-oregano-greciya-90g-577880/"
+    },
+    {
+        "title": "Мука льняная MAKFA, 500г",
+        "sale_percent": 20,
+        "card_price": 75.99,
+        "regular_price": 94.79,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-12 02:00:00",
+        "url": "https://lenta.com/product/608760-rossiya-608760/"
+    },
+    {
+        "title": "Хлебцы рисовые KUPIEC с бельгийским молочным шоколадом, 90г",
+        "sale_percent": 44,
+        "card_price": 99.99,
+        "regular_price": 178.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-10 00:00:00",
+        "url": "https://lenta.com/product/hlebcy-kupiec-risovye-s-belgijjskim-molochnym-shokoladom-polsha-90g-494237/"
+    },
+    {
+        "title": "Хлебцы рисовые KUPIEC с бельгийским темным шоколадом, 90г",
+        "sale_percent": 25,
+        "card_price": 134.99,
+        "regular_price": 178.99,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/hlebcy-kupiec-risovye-s-belgijjskim-temnym-shokoladom-polsha-90g-494318/"
+    },
+    {
+        "title": "Хлопья овсяные безглютеновые ЛЕНТА ECO с шоколадом, из голозерного овса, 375г",
+        "sale_percent": 20,
+        "card_price": 139.99,
+        "regular_price": 174.79,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-03 02:00:00",
+        "url": "https://lenta.com/product/hlopya-lenta-eco-ovsyanye-iz-golozernogo-ovsa-bglyutena-s-shokoladom-rossiya-375g-591702/"
+    }
+]

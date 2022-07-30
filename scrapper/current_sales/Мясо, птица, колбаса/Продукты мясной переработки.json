@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Бекон сырокопченый ЛЕНТА категория В, нарезка, 150г",
+        "sale_percent": 43,
+        "card_price": 99.99,
+        "regular_price": 174.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/bekon-lenta-sk-nar-vu-rossiya-150g-557434/"
+    },
+    {
+        "title": "Бекон сырокопченый ВЕЛКОМ, нарезка, 200г",
+        "sale_percent": 52,
+        "card_price": 134.99,
+        "regular_price": 278.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/bekon-velkom-sk-nar-rossiya-200g-391643/"
+    },
+    {
+        "title": "Бекон сырокопченый ДЫМОВ, нарезка, 500г",
+        "sale_percent": 49,
+        "card_price": 324.97,
+        "regular_price": 641.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/bekon-dymov-vengerskijj-sk-nar-vu-rossiya-500g-491941/"
+    },
+    {
+        "title": "Колбаса сырокопченая ЧЕРКИЗОВО Premium Салями Фламенко, нарезка, 100г",
+        "sale_percent": 50,
+        "card_price": 94.99,
+        "regular_price": 189.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/kolbasa-cherkizovo-premium-salyami-flamenko-sk-nar-mgs-rossiya-100g-561986/"
+    },
+    {
+        "title": "Холодец ТОРГОВАЯ ПЛОЩАДЬ Классический, 500г",
+        "sale_percent": 27,
+        "card_price": 119.99,
+        "regular_price": 163.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/holodec-torgovaya-ploshchad-klassicheskijj-rossiya-500g-443112/"
+    },
+    {
+        "title": "Паштет печеночный ТОРГОВАЯ ПЛОЩАДЬ, 150г",
+        "sale_percent": 23,
+        "card_price": 55.99,
+        "regular_price": 72.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pashtet-torgovaya-ploshchad-pechenochnyjj-pa-rossiya-150g-264373/"
+    },
+    {
+        "title": "Паштет ГЛАВПРОДУКТ Нежный из куриной печени, 95г",
+        "sale_percent": 27,
+        "card_price": 49.99,
+        "regular_price": 68.49,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/pashtet-glavprodukt-nezhnyjj-iz-kurinojj-pecheni-myasorastitelnaya-rossiya-95g-300977/"
+    },
+    {
+        "title": "Филе копчено-вареное куриное НПФ, весовое",
+        "sale_percent": 15,
+        "card_price": 694.99,
+        "regular_price": 817.69,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-11-06 02:00:00",
+        "url": "https://lenta.com/product/cyplenok-brojjler-npf-file-bk-kv-vu-ves-rossiya-1kg-114178/"
+    },
+    {
+        "title": "Паштет с гусиной печенью ГЛАВПРОДУКТ Деликатесный, 95г",
+        "sale_percent": 27,
+        "card_price": 49.99,
+        "regular_price": 68.49,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/myasnye-konservy-pashtet-glavprodukt-delikatesnyjj-s-gusinojj-pechenyu-rossiya-95g-636287/"
+    },
+    {
+        "title": "Ветчина ЧЕРКИЗОВО По-черкизовски, нарезка, 200г",
+        "sale_percent": 15,
+        "card_price": 152.09,
+        "regular_price": 178.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/vetchina-prochie-tovary-po-cherkizovski-nar-rossiya-200g-628916/"
+    },
+    {
+        "title": "Бекон сырокопченый ЧЕРКИЗОВО ПРЕМИУМ, нарезка, 180г",
+        "sale_percent": 38,
+        "card_price": 159.99,
+        "regular_price": 259.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-05 00:00:00",
+        "url": "https://lenta.com/product/bekon-cherkizovo-sk-vu-nar-rossiya-180g-521354/"
+    },
+    {
+        "title": "Колбаса сырокопченая СПК Юбилейная, нарезка, 100г",
+        "sale_percent": 15,
+        "card_price": 110.89,
+        "regular_price": 130.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/kolbasa-spk-yubilejjnaya-sk-nar-rossiya-100g-513729/"
+    },
+    {
+        "title": "Ассорти сырокопченое ВЕЛКОМ Шейка, Балык, Бекон, нарезка, 150г",
+        "sale_percent": 41,
+        "card_price": 179.99,
+        "regular_price": 305.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/assorti-velkom-shejjkabalykbekon-sk-nargzs-rossiya-150g-550597/"
+    },
+    {
+        "title": "Рулет копчено-вареный куриный НПФ Ароматный, весовой",
+        "sale_percent": 15,
+        "card_price": 422.19,
+        "regular_price": 496.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/rulet-npf-aromatnyjj-iz-myasa-cb-kv-ves-rossiya-1kg-114169/"
+    },
+    {
+        "title": "Балык сырокопченый свиной СПК, нарезка, 120г",
+        "sale_percent": 15,
+        "card_price": 157.39,
+        "regular_price": 185.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/balyk-spk-svinojj--sk-nar-rossiya-120g-210347/"
+    },
+    {
+        "title": "Колбаса сырокопченая ЧЕРКИЗОВО ПРЕМИУМ Сальчичон, нарезка, 100г",
+        "sale_percent": 15,
+        "card_price": 134.09,
+        "regular_price": 157.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-02 00:00:00",
+        "url": "https://lenta.com/product/kolbasa-cherkizovo-salchichon-sk-nar-zatm-rossiya-100g-168211/"
+    },
+    {
+        "title": "Бекон копчено-вареный ЛЕНТА, нарезка, 400г",
+        "sale_percent": 15,
+        "card_price": 384.69,
+        "regular_price": 452.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/bekon-lenta-vk-nar-rossiya-400g-443180/"
+    },
+    {
+        "title": "Колбаса сырокопченая ВЕЛКОМ Велкомовская, нарезка, 150г",
+        "sale_percent": 38,
+        "card_price": 169.99,
+        "regular_price": 273.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/kolbasa-velkom-velkomovskaya-sk-nar-gzs-rossiya-150g-550603/"
+    },
+    {
+        "title": "Бекон сырокопченый ВЕЛКОМ English breakfast, нарезка, 200г",
+        "sale_percent": 46,
+        "card_price": 194.99,
+        "regular_price": 363.06,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/bekon-velkom-english-breakfast-sk-vu-nar-rossiya-200g-600982/"
+    },
+    {
+        "title": "Колбаса сырокопченая МЯСНАЯ ИСТОРИЯ Сальчичон и Тоскана полусухая, нарезка, 100г",
+        "sale_percent": 15,
+        "card_price": 174.39,
+        "regular_price": 205.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/kolbasa-inejj-salchichon-i-toskana-polusuhaya-sk-ma-nar-rossiya-100g-464901/"
+    },
+    {
+        "title": "Паштет ГЛАВПРОДУКТ Деревенский, с копченостями, 95г",
+        "sale_percent": 27,
+        "card_price": 49.99,
+        "regular_price": 68.49,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-09 02:00:00",
+        "url": "https://lenta.com/product/myasnye-konservy-pashtet-glavprodukt-derevenskijj-s-kopchenostyami-rossiya-95g-636518/"
+    },
+    {
+        "title": "Тушка копчено-вареная цыпленка-бройлера НПФ, весовая",
+        "sale_percent": 15,
+        "card_price": 339.89,
+        "regular_price": 399.89,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/cyplenok-brojjler-npf-tushka-kv-podlozhka--ves-rossiya-1kg-356045/"
+    },
+    {
+        "title": "Колбаса вареная МК ВЕЛИКОЛУКСКИЙ Докторская ГОСТ, нарезка, 250г",
+        "sale_percent": 15,
+        "card_price": 130.59,
+        "regular_price": 153.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/kolbasa-mk-velikolukskijj-doktorskaya-gost-var-nar-rossiya-250g-569675/"
+    },
+    {
+        "title": "Колбаски сырокопченые СПК Подпивасики Острые, 100г",
+        "sale_percent": 15,
+        "card_price": 156.89,
+        "regular_price": 184.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/kolbaski-spk-podpivasiki-ostrye-sk-sza-rossiya-100g-559946/"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Продукция плодовая алкогольная VINYAN Гранатовая п/сл.",
+        "sale_percent": 17,
+        "card_price": 349.0,
+        "regular_price": 421.09,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/produkciya-plodovaya-alkogolnaya-vinyan-granatovaya-psl-armeniya-075l-595914/"
+    },
+    {
+        "title": "Вино ликерное ПОРТВЕЙН Ташкент крепленое десертное красное, 0.75л",
+        "sale_percent": 24,
+        "card_price": 399.0,
+        "regular_price": 526.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/napitok-vinnyjj-portvejjn-tashkent-kr-sl-uzbekistan-075l-581075/"
+    },
+    {
+        "title": "Продукция плодовая алкогольная ARAME Гранат, 0.75л",
+        "sale_percent": 20,
+        "card_price": 479.0,
+        "regular_price": 599.99,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/produkciya-plodovaya-alkogolnaya-arame-granat-armeniya-075l-603172/"
+    },
+    {
+        "title": "Продукция плодовая алкогольная ARAME Вишня, 0.75л",
+        "sale_percent": 30,
+        "card_price": 479.0,
+        "regular_price": 684.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/produkciya-plodovaya-alkogolnaya-arame-vishnya-armeniya-075l-603087/"
+    },
+    {
+        "title": "Напиток виноградосодержащий AY CANDELA Сангрия красный сладкий, 1л",
+        "sale_percent": 28,
+        "card_price": 529.99,
+        "regular_price": 736.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-05 02:00:00",
+        "url": "https://lenta.com/product/583254-ispaniya-583254/"
+    },
+    {
+        "title": "Напиток виноградосодержащий ROSSO NOBILE AL CIOCCOLATA из виноградного сырья",
+        "sale_percent": 33,
+        "card_price": 599.0,
+        "regular_price": 894.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-02 02:00:00",
+        "url": "https://lenta.com/product/562941-germaniya-562941/"
+    },
+    {
+        "title": "Вино крепленое БРОЯНИЦА Кагор выдержанное десертное, 0.75л",
+        "sale_percent": 16,
+        "card_price": 799.99,
+        "regular_price": 947.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-01 00:00:00",
+        "url": "https://lenta.com/product/vino-kreplenoe-desertnoe-prochie-tovary-kagor-vyderzh-serbiya-075l-626768/"
+    },
+    {
+        "title": "Вино крепленое TRES ARCOS Портвейн Тони Порто, 0.75л",
+        "sale_percent": 15,
+        "card_price": 899.0,
+        "regular_price": 1052.69,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/vino-likernoe-tres-arcos-tawny-port-douro-doc-portvejjn-portugaliya-075l-582336/"
+    },
+    {
+        "title": "Вино крепленое TRES ARCOS Портвейн Руби Порто, 0.75л",
+        "sale_percent": 15,
+        "card_price": 899.0,
+        "regular_price": 1052.69,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/vino-likernoe-tres-arcos-ruby-port-douro-doc-portvejjn-portugaliya-075l-582263/"
+    }
+]

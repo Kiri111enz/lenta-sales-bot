@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Хлеб Кукурузный особый, 350г",
+        "sale_percent": 15,
+        "card_price": 80.49,
+        "regular_price": 94.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/hleb-kukuruznyjj-osobyjj-rossiya-350g-366165/"
+    },
+    {
+        "title": "Хлеб Балтийский, 400г",
+        "sale_percent": 39,
+        "card_price": 25.79,
+        "regular_price": 42.19,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-09-01 02:00:00",
+        "url": "https://lenta.com/product/hleb-baltijjskijj-rossiya-400g-100669/"
+    },
+    {
+        "title": "Хлеб Ароматный, 7-ми зерновой, 400г",
+        "sale_percent": 15,
+        "card_price": 80.49,
+        "regular_price": 94.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/hleb-7mi-zernovojj-aromatnyjj-rossiya-400g-121069/"
+    },
+    {
+        "title": "Хлеб заварной Бородинский, 400г",
+        "sale_percent": 15,
+        "card_price": 50.89,
+        "regular_price": 59.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/hleb-borodinskijj-zavarnojj-rossiya-400g-194318/"
+    },
+    {
+        "title": "Багет с ветчиной и сыром, 300г",
+        "sale_percent": 15,
+        "card_price": 71.59,
+        "regular_price": 84.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/baget-s-vetchinojj-i-syrom-rossiya-300g-254446/"
+    },
+    {
+        "title": "Хлеб бездрожжевой, 400г",
+        "sale_percent": 15,
+        "card_price": 62.59,
+        "regular_price": 73.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/hleb-bezdrozhzhevojj-rossiya-400g-534952/"
+    },
+    {
+        "title": "Булочка для гамбургера, 60г",
+        "sale_percent": 16,
+        "card_price": 7.99,
+        "regular_price": 9.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/bulochka-dlya-gamburgera-rossiya-60g-359092/"
+    },
+    {
+        "title": "Багет Французский, мини, 100г",
+        "sale_percent": 15,
+        "card_price": 13.39,
+        "regular_price": 15.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/baget-francuzskijj-mini-rossiya-1100g-361853/"
+    },
+    {
+        "title": "Хлеб зерновой бездрожжевой, 400г",
+        "sale_percent": 15,
+        "card_price": 89.39,
+        "regular_price": 105.29,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/hleb-bezdrozhzhevojj-zernovojj-rossiya-400g-534951/"
+    },
+    {
+        "title": "Хлеб Купеческий, 600г",
+        "sale_percent": 15,
+        "card_price": 80.49,
+        "regular_price": 94.79,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/hleb-kupecheskijj-rossiya-600g-504972/"
+    },
+    {
+        "title": "Батон Гусарский, весовой",
+        "sale_percent": 43,
+        "card_price": 89.99,
+        "regular_price": 157.89,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-09-01 02:00:00",
+        "url": "https://lenta.com/product/baton-gusarskijj-ves-rossiya-163026/"
+    },
+    {
+        "title": "Багет пшеничный Деревенский, 300г",
+        "sale_percent": 15,
+        "card_price": 62.59,
+        "regular_price": 73.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/baget-derevenskijj-pshenichnyjj-rossiya-300g-504968/"
+    },
+    {
+        "title": "Багет Прованс, 230г",
+        "sale_percent": 15,
+        "card_price": 58.19,
+        "regular_price": 68.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/baget-provans-rossiya-230g-254600/"
+    },
+    {
+        "title": "Хлеб Славянский, 500г",
+        "sale_percent": 15,
+        "card_price": 35.79,
+        "regular_price": 42.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/hleb-slavyanskijj-rossiya-500g-520473/"
+    },
+    {
+        "title": "Пампушки с чесноком, 290г",
+        "sale_percent": 15,
+        "card_price": 70.69,
+        "regular_price": 83.19,
+        "sale_start": "2022-07-27 02:00:00",
+        "sale_end": "2022-08-02 00:00:00",
+        "url": "https://lenta.com/product/pampushki-s-chesnokom-rossiya-90g-538524/"
+    },
+    {
+        "title": "Хлеб Сицилийский с итальянскими травами, 300г",
+        "sale_percent": 15,
+        "card_price": 44.69,
+        "regular_price": 52.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/hleb-sicilijjskijj-s-italyanskimi-travami-rossiya-300g-216038/"
+    },
+    {
+        "title": "Пампушка ржаная с чесноком и зеленью, 280г",
+        "sale_percent": 15,
+        "card_price": 58.19,
+        "regular_price": 68.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-02 00:00:00",
+        "url": "https://lenta.com/product/pampushka-rzhanaya-s-chesnokom-i-zelenyu-rossiya-280g-547213/"
+    },
+    {
+        "title": "Хлеб Рижский, 500г",
+        "sale_percent": 15,
+        "card_price": 67.09,
+        "regular_price": 78.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/hleb-rizhskijj-rossiya-500g-101869/"
+    },
+    {
+        "title": "Фокачча с томатами и сыром, 400г",
+        "sale_percent": 15,
+        "card_price": 116.29,
+        "regular_price": 136.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/fokachcha-s-tomatami-i-syrom-rossiya-400g-504974/"
+    },
+    {
+        "title": "Пампушка ржаная с чесноком и зеленью, весовая",
+        "sale_percent": 15,
+        "card_price": 304.19,
+        "regular_price": 357.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/pampushka-rzhanaya-s-chesnokom-i-zelenyu-ves-rossiya-456236/"
+    },
+    {
+        "title": "Хлеб Питательный с киноа, 350г",
+        "sale_percent": 15,
+        "card_price": 116.29,
+        "regular_price": 136.89,
+        "sale_start": "2022-07-30 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/kinoa-pitatelnyjj-rossiya-350g-504975/"
+    },
+    {
+        "title": "Булочка Французская, 170г",
+        "sale_percent": 15,
+        "card_price": 29.49,
+        "regular_price": 34.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/bulochka-francuzskaya-rossiya-170g-566099/"
+    },
+    {
+        "title": "Хлеб заварной Солодовый, 400г",
+        "sale_percent": 15,
+        "card_price": 80.49,
+        "regular_price": 94.79,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-10-09 02:00:00",
+        "url": "https://lenta.com/product/hleb-zavarnojj-solodovyjj-rossiya-400g-354559/"
+    },
+    {
+        "title": "Багет Французский, 300г",
+        "sale_percent": 48,
+        "card_price": 20.99,
+        "regular_price": 39.99,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 02:00:00",
+        "url": "https://lenta.com/product/baget-francuzskijj-rossiya-300g-048122/"
+    }
+]

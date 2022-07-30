@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Пельмени ЦЕЗАРЬ Классика, категория Б, 800г",
+        "sale_percent": 50,
+        "card_price": 299.99,
+        "regular_price": 598.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pelmeni-cezar-klassika-katv-zam-rossiya-800g-470241/"
+    },
+    {
+        "title": "Пельмени САЛЬНИКОВ Premium Классические Standart, категория А, 800г",
+        "sale_percent": 15,
+        "card_price": 330.89,
+        "regular_price": 389.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pelmeni-salnikov-premium-klassicheskie-standart-kat-a-rossiya-800g-377228/"
+    },
+    {
+        "title": "Пельмени СИБИРСКАЯ КОЛЛЕКЦИЯ Классические, категория В, 700г",
+        "sale_percent": 15,
+        "card_price": 535.39,
+        "regular_price": 629.99,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/pelmeni-sibirskaya-kollekciya-klassicheskie-katv-rossiya-700g-493077/"
+    },
+    {
+        "title": "Пельмени САЛЬНИКОВ Premium Классические Mini, категория А, 800г",
+        "sale_percent": 15,
+        "card_price": 362.49,
+        "regular_price": 426.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/pelmeni-salnikov-premium-klassicheskie-mini-kat-a-rossiya-800g-347284/"
+    },
+    {
+        "title": "Пельмени БИЙСКИЕ с говядиной и свининой ручная лепка, категория В, 900г",
+        "sale_percent": 30,
+        "card_price": 249.99,
+        "regular_price": 356.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pelmeni-bijjskie-ruchnaya-lepka-rossiya-900g-200274/"
+    },
+    {
+        "title": "Пельмени СИБИРСКАЯ КОЛЛЕКЦИЯ Отборные с жареным хрустящим лучком, 700г",
+        "sale_percent": 45,
+        "card_price": 229.99,
+        "regular_price": 421.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/601386-rossiya-601386/"
+    },
+    {
+        "title": "Манты БИЙСКИЕ с говядиной и свининой, категория Г, 900г",
+        "sale_percent": 30,
+        "card_price": 249.99,
+        "regular_price": 356.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/manty-bijjskie-s-govyadinojj-i-svininojj-rossiya-900g-227736/"
+    },
+    {
+        "title": "Пельмени СИБИРСКАЯ КОЛЛЕКЦИЯ Элитные ГОСТ, 700г",
+        "sale_percent": 15,
+        "card_price": 608.39,
+        "regular_price": 715.79,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/pelmeni-sibirskaya-kollekciya-elitnye-gost-rossiya-700g-540965/"
+    },
+    {
+        "title": "Пельмени ЛОЖКАРЕВЪ из отборной говядины и свинины, 900г",
+        "sale_percent": 15,
+        "card_price": 295.19,
+        "regular_price": 347.39,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-04 02:00:00",
+        "url": "https://lenta.com/product/pelmeni-lozhkarev-iz-otbornojj-govyadiny-i-svininy-rossiya-900g-553524/"
+    },
+    {
+        "title": "Пельмени ГОРЯЧАЯ ШТУЧКА Бульмени со сливочным маслом, 900г",
+        "sale_percent": 36,
+        "card_price": 219.99,
+        "regular_price": 342.49,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/bulmeni-goryachaya-shtuchka-so-slivochnym-maslom-rossiya-900g-371607/"
+    },
+    {
+        "title": "Пельмени СИБИРСКАЯ КОЛЛЕКЦИЯ Телячьи. ГОСТ, категория В, 700г",
+        "sale_percent": 15,
+        "card_price": 581.49,
+        "regular_price": 684.19,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/521125-rossiya-521125/"
+    },
+    {
+        "title": "Пельмени ГОРЯЧАЯ ШТУЧКА Бульмени с говядиной и свининой, 430г",
+        "sale_percent": 32,
+        "card_price": 115.99,
+        "regular_price": 169.39,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/bulmeni-goryachaya-shtuchka-s-govyadinojj-i-svininojj-rossiya-430g-339668/"
+    },
+    {
+        "title": "Пельмени ЦЕЗАРЬ Домашние, категория В, ГОСТ, 800г",
+        "sale_percent": 45,
+        "card_price": 439.99,
+        "regular_price": 799.99,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pelmeni-cezar-domashnie-gost-pf-katv-rossiya-800g-469309/"
+    },
+    {
+        "title": "Пельмени АК РОСТОРГУЕВСКИЙ с чесноком, категория А, 800г",
+        "sale_percent": 15,
+        "card_price": 259.39,
+        "regular_price": 305.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/pelmeni-ak-rostorguevskijj-s-chesnokom-rossiya-800g-489251/"
+    },
+    {
+        "title": "Пельмени МИРАТОРГ Домашние, из свинины и говядины, категория В, 800г",
+        "sale_percent": 27,
+        "card_price": 309.99,
+        "regular_price": 422.59,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/pelmeni-miratorg-domashnie-iz-svininy-i-govyadiny-pf-katv-rossiya-800g-426807/"
+    },
+    {
+        "title": "Пельмени БОЛЬШАЯ КАСТРЮЛЯ Сливочные, 800г",
+        "sale_percent": 15,
+        "card_price": 285.29,
+        "regular_price": 335.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/pelmeni-bolshaya-kastryulya-slivochnye-rossiya-800g-580446/"
+    },
+    {
+        "title": "Пельмени ЦЕЗАРЬ Platinum, категория В, 800г",
+        "sale_percent": 50,
+        "card_price": 299.99,
+        "regular_price": 598.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pelmeni-cezar-platinum-rossiya-800g-537333/"
+    },
+    {
+        "title": "Пельмени ДОБРОДАР Сузунские Фирменные со сливками, 800г",
+        "sale_percent": 41,
+        "card_price": 299.99,
+        "regular_price": 509.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/pelmeni-dobrodar-suzunskie-firmennye-so-slivkami-rossiya-800g-535579/"
+    },
+    {
+        "title": "Пельмени СИБИРСКАЯ КОЛЛЕКЦИЯ Северные рецепты, 700г",
+        "sale_percent": 15,
+        "card_price": 474.19,
+        "regular_price": 557.89,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/pelmeni-prochie-tovary-severnye-recepty-rossiya-700g-627523/"
+    },
+    {
+        "title": "Пельмени СИБИРСКАЯ КОЛЛЕКЦИЯ Мини, категория Б, 700г",
+        "sale_percent": 15,
+        "card_price": 653.19,
+        "regular_price": 768.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/pelmeni-sibirskaya-kollekciya-mini-rossiya-700g-503168/"
+    },
+    {
+        "title": "Пельмени МИРАТОРГ Black Angus из мраморной говядины, категория Б, 800г",
+        "sale_percent": 31,
+        "card_price": 379.99,
+        "regular_price": 553.59,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/pelmeni-miratorg-iz-mramornojj-govyadiny-pf-katb-rossiya-800g-461445/"
+    },
+    {
+        "title": "Пельмени ШЕЛЬФ Татарские, Халяль, 900г",
+        "sale_percent": 15,
+        "card_price": 340.89,
+        "regular_price": 401.09,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/pelmeni-shelf-tatarskie-bez-zmzh-rossiya-900g-576139/"
+    },
+    {
+        "title": "Пельмени ГОРЯЧАЯ ШТУЧКА Бульмени большие с говядиной и свининой, \r\nкатегория Б, 900г",
+        "sale_percent": 27,
+        "card_price": 249.99,
+        "regular_price": 342.49,
+        "sale_start": "2022-07-26 02:00:00",
+        "sale_end": "2022-08-01 02:00:00",
+        "url": "https://lenta.com/product/bulmeni-goryachaya-shtuchka-s-govyadinojj-i-svininojj-pf-katb-rossiya-900g-402621/"
+    },
+    {
+        "title": "Пельмени СИБИРСКИЙ ГУРМАН Великосочные, категория А, 1000г",
+        "sale_percent": 15,
+        "card_price": 348.89,
+        "regular_price": 410.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/pelmeni-sibirskijj-gurman-velikosochnye-klassicheskie-kata-zam-rossiya-1000g-508240/"
+    }
+]

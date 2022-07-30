@@ -1,0 +1,137 @@
+[
+    {
+        "title": "Окорочок копчено-вареный куриный, весовой",
+        "sale_percent": 15,
+        "card_price": 298.79,
+        "regular_price": 351.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/okorochok-kurinyjj-kv-ohl-ves-rossiya-563854/"
+    },
+    {
+        "title": "Ребрышки копчено-вареные свиные, весовые",
+        "sale_percent": 15,
+        "card_price": 579.79,
+        "regular_price": 682.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/rebryshki-svinye-ves-rossiya-519167/"
+    },
+    {
+        "title": "Шпикачки вареные Чешские категория В, весовые",
+        "sale_percent": 15,
+        "card_price": 247.79,
+        "regular_price": 291.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/shpikachki-cheshskie-ves-rossiya-500334/"
+    },
+    {
+        "title": "Рулет копчено-вареный из грудинки Люкс, категория Б, весовой",
+        "sale_percent": 15,
+        "card_price": 375.79,
+        "regular_price": 442.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/rulet-iz-grudinki-lyuks-vk-katb-ohl-ves-rossiya-563852/"
+    },
+    {
+        "title": "Рулет копчено-вареный из свинины, Экстра, весовой",
+        "sale_percent": 15,
+        "card_price": 357.89,
+        "regular_price": 421.09,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/rulet-iz-grudinki-ekstra-ck-vk-ohl-ves-rossiya-563853/"
+    },
+    {
+        "title": "Грудинка копчено-вареная из свинины категория Б, весовая",
+        "sale_percent": 15,
+        "card_price": 459.89,
+        "regular_price": 541.09,
+        "sale_start": "2022-07-28 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/grudinka-vk-ves-rossiya-495721/"
+    },
+    {
+        "title": "Ветчина копчено-вареная из мяса птицы Уездная 1-й сорт, весовая",
+        "sale_percent": 24,
+        "card_price": 329.99,
+        "regular_price": 432.69,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/vetchina-uezdnaya-ves-rossiya-495964/"
+    },
+    {
+        "title": "Уши копчено-вареные свиные Ароматные, весовые",
+        "sale_percent": 21,
+        "card_price": 399.99,
+        "regular_price": 505.29,
+        "sale_start": "2022-07-29 02:00:00",
+        "sale_end": "2022-08-04 00:00:00",
+        "url": "https://lenta.com/product/ushi-svinye-aromatnye-ves-rossiya-519178/"
+    },
+    {
+        "title": "Колбаса полукопченая Дворянская полукопченая, весовая",
+        "sale_percent": 15,
+        "card_price": 487.59,
+        "regular_price": 573.69,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/kolbaska-dvoryanskaya-pk-ves-rossiya-495720/"
+    },
+    {
+        "title": "Ветчина вареная Ароматная категория В, весовая",
+        "sale_percent": 15,
+        "card_price": 349.79,
+        "regular_price": 411.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/vetchina-aromatnaya-ves-rossiya-500152/"
+    },
+    {
+        "title": "Колбаса вареная Экстра категория Б, весовая",
+        "sale_percent": 15,
+        "card_price": 405.29,
+        "regular_price": 476.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/kolbasa-ekstra-varenaya-ves-rossiya-500328/"
+    },
+    {
+        "title": "Сосиски с молоком, категория В, весовые",
+        "sale_percent": 15,
+        "card_price": 450.99,
+        "regular_price": 530.59,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/sosiski-s-molokom-produkt-myasnojj-varenyjj-katv-ves-rossiya-507286/"
+    },
+    {
+        "title": "Колбаски полукопченые Дижонские категория В, весовая",
+        "sale_percent": 15,
+        "card_price": 551.99,
+        "regular_price": 649.49,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/kolbaski-dizhonskie-pk-ves-rossiya-500331/"
+    },
+    {
+        "title": "Карбонад копчено-вареный из свинины Традиционный категория Б, весовой",
+        "sale_percent": 15,
+        "card_price": 579.79,
+        "regular_price": 682.19,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/karbonad-tradicionnyjj-ves-rossiya-495394/"
+    },
+    {
+        "title": "Шейка копчено-вареная из свинины Подмосковная категория Б, весовая",
+        "sale_percent": 15,
+        "card_price": 626.29,
+        "regular_price": 736.89,
+        "sale_start": "2022-07-24 02:00:00",
+        "sale_end": "2022-11-02 02:00:00",
+        "url": "https://lenta.com/product/shejjka-podmoskovnaya-vk-ves-rossiya-495966/"
+    }
+]
